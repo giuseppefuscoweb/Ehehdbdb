@@ -233,6 +233,8 @@ https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
 http://sphera.fluidstream.eu/company.mp3?FLID=8mp3
 #EXTINF:-1 tvg-id="63eb82e24ekk3e707008kb735f" tvg-name="Radio Deejay" tvg-logo="https://www.manzoniadvertising.com/media/img/DeejayRadio_gySaADt.jpg" group-title="Tutti" tvg-chno="917",Radio Deejay
 https://streamcdnf31-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8
+#EXTINF:-1 tvg-id="63eb82e24ekk3e707008kb73dhhs" tvg-name="Radio Kiss Kiss Italia" tvg-logo="https://play-lh.googleusercontent.com/hIiNXzStOpM7jeSBuhiWOm-9sU2ZI-1zH36-xBf0CkxIVVWDanwcaaHjReWfARDmMmt9=w240-h480-rw" group-title="Tutti" tvg-chno="960",Radio Kiss Kiss Italia
+https://ice07.fluidstream.net/KKItalia.mp3
 #EXTINF:-1 tvg-name="Deejay 30 Songs" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/h6fxttkrjpat.png" group-title="Tutti" tvg-chno="918", Deejay 30 Songs
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay30songs/radiodeejay30songs/master_ma.m3u8
 #EXTINF:-1 tvg-name="Radio Radicale" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Radioradicale_logo.png" group-title="Tutti" tvg-chno="919", Radio Radicale
