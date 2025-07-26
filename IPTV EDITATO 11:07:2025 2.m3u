@@ -40,7 +40,7 @@ https://load-balancer.azotosolutions.com/cdnedge/smil:live.smil/chunklist_w13082
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-logo="https://i.imgur.com/yPuQeEy.jpg" group-title="Tutti" tvg-chno="17", Prima Tv Napoli
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:-1 tvg-id="6093f9281db477000759fce0" tvg-name="Super! SpongeBob" tvg-logo="https://images.pluto.tv/channels/6093f9281db477000759fce0/colorLogoPNG_1749451468739.png" group-title="Tutti" tvg-chno="18", Super! SpongeBob
-https://stitcher.pluto.tv/stitch/hls/channel/6093f9281db477000759fce0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=340d47b8-53b7-11f0-a82d-be3b20bfaa79
+https://stitcher.pluto.tv/stitch/hls/channel/6093f9281db477000759fce0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=0d92fb8d-6a3e-11f0-a640-069545720e89
 #EXTINF:-1 tvg-id="625e6cc905e09f00073addee" tvg-name="Squadra Speciale Cobra 11" tvg-logo="https://images.pluto.tv/channels/625e6cc905e09f00073addee/colorLogoPNG.png" group-title="Tutti" tvg-chno="19", Squadra Speciale Cobra 11
 https://stitcher.pluto.tv/stitch/hls/channel/625e6cc905e09f00073addee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=340d47b8-53b7-11f0-a82d-be3b20bfaa79
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="Tutti",20 Mediaset
