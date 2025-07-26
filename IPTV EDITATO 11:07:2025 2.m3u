@@ -174,8 +174,8 @@ https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-id="PadrePioTV.it" tvg-chno="145" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/padrepiotv.png" group-title="Tutti",Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="660bfc4424e1d000085b5f93" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/660bfc4424e1d000085b5f93/colorLogoPNG_1750064819565.png" group-title="Tutti" tvg-chno="146", FIFA+
-https://stitcher.pluto.tv/stitch/hls/channel/660bfc4424e1d000085b5f93livestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=340d47b8-53b7-11f0-a82d-be3b20bfaa79&profilesFromStream=true
+#EXTINF:-1 tvg-id="660bfc4424e1d000085b5f93" tvg-name="Radio Kiss Kiss Italia" tvg-logo="https://play-lh.googleusercontent.com/hIiNXzStOpM7jeSBuhiWOm-9sU2ZI-1zH36-xBf0CkxIVVWDanwcaaHjReWfARDmMmt9=w240-h480-rw" group-title="Tutti" tvg-chno="146",Radio Kiss Kiss Italia
+https://ice07.fluidstream.net/KKItalia.mp3
 #EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-chno="158" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png" group-title="Tutti",RADIO KISS KISS TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiRadio2.it" tvg-chno="202" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rairadio2visual.png" group-title="Tutti",Rai Radio 2 Visual
