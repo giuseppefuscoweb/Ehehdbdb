@@ -40,7 +40,7 @@ https://load-balancer.azotosolutions.com/cdnedge/smil:live.smil/chunklist_w13082
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-logo="https://i.imgur.com/yPuQeEy.jpg" group-title="Tutti" tvg-chno="17", Prima Tv Napoli
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:-1 tvg-id="6093f9281db477000759fce0" tvg-name="Super! SpongeBob" tvg-logo="https://images.pluto.tv/channels/6093f9281db477000759fce0/colorLogoPNG_1749451468739.png" group-title="Tutti" tvg-chno="18", Super! SpongeBob
-https://stitcher.pluto.tv/stitch/hls/channel/6093f9281db477000759fce0/master.m3u8
+https://stitcher.pluto.tv/stitch/hls/channel/6093f9281db477000759fce0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=0d92fb8d-6a3e-11f0-a640-069545720e89
 #EXTINF:-1 tvg-id="625e6cc905e09f00073addee" tvg-name="Squadra Speciale Cobra 11" tvg-logo="https://images.pluto.tv/channels/625e6cc905e09f00073addee/colorLogoPNG.png" group-title="Tutti" tvg-chno="19", Squadra Speciale Cobra 11
 https://stitcher.pluto.tv/stitch/hls/channel/625e6cc905e09f00073addee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=340d47b8-53b7-11f0-a82d-be3b20bfaa79
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-chno="20" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="Tutti",20 Mediaset
@@ -180,7 +180,7 @@ https://stitcher.pluto.tv/stitch/hls/channel/660bfc4424e1d000085b5f93livestitch/
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiRadio2.it" tvg-chno="202" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rairadio2visual.png" group-title="Tutti",Rai Radio 2 Visual
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://raievent9-live.akamaized.net/hls/live/619188/raievent9/raievent9/raievent9_2400/chunklist.m3u8
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="RTL102.5News.it" tvg-chno="233" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtl1025tv.png" group-title="Tutti",RTL 102.5 News
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTINF:-1 tvg-id="63eb82e24e83e70008ab735am" tvg-name="Radio24‑IlSole24OreTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_x-aR9l60WNP2rUP8aHZjKAox_ZS34OWLwg&s" group-title="Tutti" tvg-chno="246", Radio24‑IlSole24OreTV
@@ -233,7 +233,7 @@ https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8
 http://sphera.fluidstream.eu/company.mp3?FLID=8mp3
 #EXTINF:-1 tvg-id="63eb82e24ekk3e707008kb735f" tvg-name="Radio Deejay" tvg-logo="https://www.manzoniadvertising.com/media/img/DeejayRadio_gySaADt.jpg" group-title="Tutti" tvg-chno="917",Radio Deejay
 https://streamcdnf31-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8
-#EXTINF:-1 tvg-id="660bfc4424e1d000085b5f93" tvg-name="Radio Kiss Kiss Italia" tvg-logo="https://play-lh.googleusercontent.com/hIiNXzStOpM7jeSBuhiWOm-9sU2ZI-1zH36-xBf0CkxIVVWDanwcaaHjReWfARDmMmt9=w240-h480-rw" group-title="Tutti" tvg-chno="960",Radio Kiss Kiss Italia
+#EXTINF:-1 tvg-id="660bfc4424e1d000dhdhdbe85b5f93heh" tvg-name="Radio Kiss Kiss Italia" tvg-logo="https://play-lh.googleusercontent.com/hIiNXzStOpM7jeSBuhiWOm-9sU2ZI-1zH36-xBf0CkxIVVWDanwcaaHjReWfARDmMmt9=w240-h480-rw" group-title="Tutti" tvg-chno="960",Radio Kiss Kiss Italia
 https://ice07.fluidstream.net/KKItalia.mp3
 #EXTINF:-1 tvg-name="Deejay 30 Songs" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/h6fxttkrjpat.png" group-title="Tutti" tvg-chno="918", Deejay 30 Songs
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay30songs/radiodeejay30songs/master_ma.m3u8
