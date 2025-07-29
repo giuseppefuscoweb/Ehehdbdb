@@ -178,8 +178,8 @@ https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/660bfc4424e1d000085b5f93livestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=340d47b8-53b7-11f0-a82d-be3b20bfaa79&profilesFromStream=true
 #EXTINF:-1 tvg-id="6093f9281db477hdgshever" tvg-name="SportItalia HD Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Sportitalia_2019_Logo.png" group-title="Tutti" tvg-chno="47", SportItalia HD Plus
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
-#EXTINF:-1 tvg-id="6093f9281db477shshber" tvg-name="SportItalia Solocalcio HD" tvg-logo="https://www.tivu.tv/_common/images/cover-canali/si-solo-calcio.jpg" group-title="Tutti" tvg-chno="48", SportItalia Solocalcio HD
-https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="6093f9281db477shsdbb" tvg-name="SportItalia SolocalcioHD" tvg-logo="https://www.tivu.tv/_common/images/cover-canali/si-solo-calcio.jpg" group-title="Tutti" tvg-chno="48", SportItalia SolocalcioHD
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio/playlist.m3u8
 #EXTINF:-1 tvg-id="6093f9281db4770dggdhhdhd" tvg-name="SportItalia Live24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/SI_Live_24_logo_%282019%29.svg" group-title="Tutti" tvg-chno="49", SportItalia Live24
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/silive24.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="6093f9281db4770dggdhd" tvg-name="TMW  Radio Tv (Tutto Mercato Web)" tvg-logo="https://www.tmwradio.com/template/tmwradio.com/default/img/1280x720.jpg" group-title="Tutti" tvg-chno="50", TMW  Radio Tv (Tutto Mercato Web)
