@@ -176,7 +176,7 @@ https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="63eb82e24ekk3e707008kb73dhhs" tvg-name="FIFA+" tvg-logo="https://images.pluto.tv/channels/660bfc4424e1d000085b5f93/colorLogoPNG_1750064819565.png" group-title="Tutti" tvg-chno="146",FIFA+
 https://stitcher.pluto.tv/stitch/hls/channel/660bfc4424e1d000085b5f93livestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=340d47b8-53b7-11f0-a82d-be3b20bfaa79&profilesFromStream=true
-#EXTINF:-1 tvg-id="6093f9281db477hdgshever" tvg-name="SportItalia HD Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Sportitalia_2019_Logo.png" group-title="Tutti" tvg-chno="147", SportItalia HD Plus
+#EXTINF:-1 tvg-id="6093f9281db477hdgshever" tvg-name="SportItalia HD Plus" tvg-logo="https://uptradebiz.it/wp-content/uploads/2024/05/Samsung-TV-Plus-SPORTITALIA-HD.png" group-title="Tutti" tvg-chno="147", SportItalia HD Plus
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
 #EXTINF:-1 tvg-id="6093f9281db477hdgshevekd" tvg-name="SportItalia Solocalcio HD" tvg-logo="https://www.tivu.tv/_common/images/cover-canali/si-solo-calcio.jpg" group-title="Tutti" tvg-chno="148", SportItalia Solocalcio HD
 https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio/playlist.m3u8
