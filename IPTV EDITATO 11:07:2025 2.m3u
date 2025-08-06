@@ -233,7 +233,7 @@ https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="63eb82e6h24e83e707008ab7jhf" tvg-name="Radio Kiss Kiss Italia Tv" tvg-logo="https://play-lh.googleusercontent.com/hIiNXzStOpM7jeSBuhiWOm-9sU2ZI-1zH36-xBf0CkxIVVWDanwcaaHjReWfARDmMmt9" group-title="Tutti" tvg-chno="910",Radio Kiss Kiss Italia Tv
 https://kk.fluid.stream/KKTV01/livestream/playlist.m3u8?FLID=1
 #EXTINF:-1 tvg-id="63eb82e6h24e83e707008habgtxct" tvg-name="Radio Kiss Kiss Napoli Tv" tvg-logo="https://kisskissnapoli.it/wp-content/uploads/2022/03/cropped-logo-kisskiss-napoli.png" group-title="Tutti" tvg-chno="911", Radio Kiss Kiss Napoli Tv
-https://kkcdn02.fluid.stream/KKTVNapoli/smil:KKTVNapoli.smil/playlist.m3u8?FLID=1
+https://58f12ffd2447a.streamlock.net/KKTVNapoli/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="63eb82e6h24e83e707008habgtxcsww" tvg-name="Radio Club 91 Tv" tvg-logo="https://admuzzum.xdevel.com/cloud/x/cid/35/im/png/XZXW/YZ/XW/e19a25947e859113ef13ee295d3ed823.png" group-title="Tutti" tvg-chno="912", Radio Club 91 Tv
 https://stream10.xdevel.com/video0s976546-2079/stream/playlist.m3u8
 #EXTINF:-1 tvg-id="63eb82e6h24e83e707008fgabgtxct" tvg-name="Radio Love FM Tv" tvg-logo="https://www.lovefm.it/themes/default/assets/img_c/logo-love-new.png" group-title="Tutti" tvg-chno="913",Radio Love FM Tv
@@ -300,3 +300,4 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1192000_slita.m3u8
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://www.fm-world.it/wp-content/uploads/2025/07/seriea00.png" group-title="Tutti",Radio TV Serie A
 https://raw.githubusercontent.com/giuseppefuscoweb/F/refs/heads/main/master.m3u8
+
