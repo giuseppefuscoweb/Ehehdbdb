@@ -250,6 +250,12 @@ https://streamcdnf31-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radi
 https://ice07.fluidstream.net/KKItalia.mp3
 #EXTINF:-1 tvg-name="Deejay 30 Songs" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/h6fxttkrjpat.png" group-title="Tutti" tvg-chno="918", Deejay 30 Songs
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay30songs/radiodeejay30songs/master_ma.m3u8
+#EXTINF:-1 tvg-id="660bfc4424e1d000dhdhdbe85bkghf93heh" tvg-name="RMC Hits" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStdMSOIc3Vd9EO4sP1Wl1SIFoz5eriA5WFQA&s" group-title="Tutti" tvg-chno="980",RMC Hits
+https://icy.unitedradio.it/rmcweb001
+#EXTINF:-1 tvg-id="660bfc4424e1d000dhdhdbe85b5fhdhsgs" tvg-name="Radio 105 Hits" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/HabSqSfyE4.png" group-title="Tutti" tvg-chno="985", Radio 105 Hits
+https://icy.unitedradio.it/105Hits.mp3
+#EXTINF:-1 tvg-id="660bfc4424e1d000dhdhdbe85b5axcgs" tvg-name="New Hits Radio" tvg-logo="https://newhits.radio/wp-content/uploads/2021/03/cropped-newhits.radio_logo512.png" group-title="Tutti" tvg-chno="987", New Hits Radio
+https://newhitsradio.streamingmedia.it/play
 #EXTINF:-1 tvg-name="Radio Radicale" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Radioradicale_logo.png" group-title="Tutti" tvg-chno="919", Radio Radicale
 https://live.radioradicale.it/live.mp3
 #EXTINF:-1 tvg-id="63eb82e6h24e83e707008abgtxckhfd" tvg-name="Rai Radio1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rai_Radio_1_-_Logo_2017.svg/2560px-Rai_Radio_1_-_Logo_2017.svg.png" group-title="Tutti" tvg-chno="920",Rai Radio1
@@ -300,6 +306,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1192000_slita.m3u8
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://www.fm-world.it/wp-content/uploads/2025/07/seriea00.png" group-title="Tutti",Radio TV Serie A
 https://raw.githubusercontent.com/giuseppefuscoweb/F/refs/heads/main/master.m3u8
+
 
 
 
