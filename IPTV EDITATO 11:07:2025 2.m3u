@@ -155,7 +155,7 @@ https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 #EXTINF:-1 tvg-id="DonnaTV.it" tvg-chno="62" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/donnatv.png" group-title="Tutti",Donna TV
 https://5a1178b42cc03.streamlock.net/donnatv/donnatv/chunklist_w724918149.m3u8
 #EXTINF:-1 tvg-id="63eb82e24ekk3e707008kb735f" tvg-name="CS24.Live" tvg-logo="https://www.cs24.live/wp-content/uploads/2024/10/cropped-CS24-LIVE-quadrato-icona-300.png" group-title="Tutti" tvg-chno="63",CS24.Live
-https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio.smil/playlist.m3u8
+https://di-g7ij0rwh.vo.lswcdn.net/sportitalia/sisolocalcio/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="64" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/supertennis.png" group-title="Tutti",Supertennis
 https://raw.githubusercontent.com/giuseppefuscoweb/J/refs/heads/main/supertennis.m3u8
 #EXTINF:-1 tvg-id="AlmaTv.it" tvg-chno="65" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/almatv.png" group-title="Tutti",ALMA TV
@@ -311,6 +311,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1192000_slita.m3u8
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://www.fm-world.it/wp-content/uploads/2025/07/seriea00.png" group-title="Tutti",Radio TV Serie A
 https://raw.githubusercontent.com/giuseppefuscoweb/F/refs/heads/main/master.m3u8
+
 
 
 
