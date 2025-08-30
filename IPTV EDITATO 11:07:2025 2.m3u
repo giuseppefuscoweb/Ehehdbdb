@@ -186,7 +186,7 @@ https://jmp2.uk/stvp-ITBA2200010O1
 #EXTINF:-1 tvg-id="6093f9281db477hdgshevekd" tvg-name="SportItalia Solocalcio HD" tvg-logo="https://www.tivu.tv/_common/images/cover-canali/si-solo-calcio.jpg" group-title="Tutti" tvg-chno="149", SportItalia Solocalcio HD
 https://jmp2.uk/stvp-ITBC4700002CO?x=abc
 #EXTINF:-1 tvg-id="6093f9281db4770dggdhhdhd" tvg-name="SportItalia Live24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/SI_Live_24_logo_%282019%29.svg" group-title="Tutti" tvg-chno="150", SportItalia Live24
-https://origin.streamup.eu/sportitaliain/silive24/chunks.m3u8?nimblesessionid=139338
+https://origin.streamup.eu/sportitaliain/silive24/playlist.m3u8
 #EXTINF:-1 tvg-id="6093f9281db4770dggdhd" tvg-name="TMW  Radio Tv (Tutto Mercato Web)" tvg-logo="https://www.tmwradio.com/template/tmwradio.com/default/img/1280x720.jpg" group-title="Tutti" tvg-chno="151", TMW  Radio Tv (Tutto Mercato Web)
 https://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="6093f9281db477000:(" tvg-name="7Gold Emilia Romagna" tvg-logo="https://www.7goldemiliaromagna.it/wp-content/uploads/2024/04/7gold_logo.png" group-title="Tutti" tvg-chno="152", 7Gold Emilia Romagna
@@ -311,6 +311,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1192000_slita.m3u8
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://www.fm-world.it/wp-content/uploads/2025/07/seriea00.png" group-title="Tutti",Radio TV Serie A
 https://raw.githubusercontent.com/giuseppefuscoweb/F/refs/heads/main/master.m3u8
+
 
 
 
