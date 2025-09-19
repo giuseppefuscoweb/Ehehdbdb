@@ -296,7 +296,7 @@ https://tvpass.org/live/WNYWDT1/hd
 #EXTINF:-1 tvg-id="KCWEDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_CW_2024.svg/640px-The_CW_2024.svg.png" group-title="Tutti",The CW KCWE-DT1 
 https://tvpass.org/live/WPIX/hd
 #EXTINF:-1 tvg-id="KCWXDT1.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="Tutti", MyNetworkTV San Antonio (KCWX-TV)
-https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
+https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
 #EXTINF:-1 tvg-id="IONTV.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="Tutti",ION TV
 https://tvpass.org/live/IONTVEast/hd
 #EXTINF:-1 tvg-id="CBSNewsNewYork.us" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-title="Tutti",CBS News New York
@@ -309,6 +309,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1192000_slita.m3u8
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://www.fm-world.it/wp-content/uploads/2025/07/seriea00.png" group-title="Tutti",Radio TV Serie A
 https://raw.githubusercontent.com/giuseppefuscoweb/F/refs/heads/main/master.m3u8
+
 
 
 
