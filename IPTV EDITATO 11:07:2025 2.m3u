@@ -192,7 +192,7 @@ https://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3
 #EXTINF:-1 tvg-id="6093f9281db477000:(" tvg-name="7Gold Emilia Romagna" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Tutti" tvg-chno="152", 7Gold Emilia Romagna
 http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
 #EXTINF:-1 tvg-id="6093f9281db477000dhh" tvg-name="Telecity Lombardia" tvg-logo="https://cdn-icons-png.flaticon.com/512/5968/5968611.png" group-title="Tutti" tvg-chno="153", Telecity Lombardia
-https://v5.thetvapp.to/hls/HBOEast/tracks-v1a1/mono.m3u8?token=xJaN3zgJ_o8dNxeUH5vh5w&expires=1759589830&user_id=M0diYnRNSjVRR3R0VnJEOHdDZDE4aVR1YUNkRVZ1NGNqTVZtTGFRSw==
+https://tvpass.org/live/HBOEast/hd
 #EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-chno="158" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png" group-title="Tutti",RADIO KISS KISS TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiRadio2.it" tvg-chno="202" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rairadio2visual.png" group-title="Tutti",Rai Radio 2 Visual
@@ -309,6 +309,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1192000_slita.m3u8
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://www.fm-world.it/wp-content/uploads/2025/07/seriea00.png" group-title="Tutti",Radio TV Serie A
 https://raw.githubusercontent.com/giuseppefuscoweb/F/refs/heads/main/master.m3u8
+
 
 
 
