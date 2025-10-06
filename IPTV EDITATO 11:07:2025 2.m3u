@@ -159,7 +159,7 @@ https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/p
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="64" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/supertennis.png" group-title="Tutti",Supertennis
 https://raw.githubusercontent.com/giuseppefuscoweb/J/refs/heads/main/supertennis.m3u8
 #EXTINF:-1 tvg-id="AlmaTv.it" tvg-chno="65" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBVAYrcPZyBLVUGXTNpI9CmP_cXRL2PfEibpWh5C37mA&s=10" group-title="Tutti",ALMA TV
-http://cors.tundracast.com:2000/https://streamer1.nexgen.bz/AMC/index.m3u8
+https://tvpass.org/live/AMCEast/sd
 #EXTINF:-1 tvg-id="Radio105TV.it" tvg-chno="66" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png" group-title="Tutti",Radio 105 TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
@@ -309,6 +309,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1192000_slita.m3u8
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://www.fm-world.it/wp-content/uploads/2025/07/seriea00.png" group-title="Tutti",Radio TV Serie A
 https://raw.githubusercontent.com/giuseppefuscoweb/F/refs/heads/main/master.m3u8
+
 
 
 
