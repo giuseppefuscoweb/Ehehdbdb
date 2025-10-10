@@ -154,7 +154,7 @@ https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 #EXTINF:-1 tvg-id="DonnaTV.it" tvg-chno="62" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/donnatv.png" group-title="Tutti",Donna TV
 https://5a1178b42cc03.streamlock.net/donnatv/donnatv/chunklist_w724918149.m3u8
-#EXTINF:-1 tvg-id="63eb82e24ekk3e707008kb735f" tvg-name="CS24.Live" tvg-logo="https://www.tvdream.net/img/7gold_476x249.jpg" group-title="Tutti" tvg-chno="63",CS24.Live
+#EXTINF:-1 tvg-id="63eb82e24ekk3e707008kb735f" tvg-name="7Gold Sport" tvg-logo="https://www.tvdream.net/img/7gold_476x249.jpg" group-title="Tutti" tvg-chno="63",CS24.Live
 https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8?ref=1
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="64" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/supertennis.png" group-title="Tutti",Supertennis
 https://raw.githubusercontent.com/giuseppefuscoweb/J/refs/heads/main/supertennis.m3u8
@@ -189,9 +189,9 @@ https://jmp2.uk/stvp-ITBC4700002CO?x=abc
 https://origin.streamup.eu/sportitaliain/silive24/playlist.m3u8
 #EXTINF:-1 tvg-id="6093f9281db4770dggdhd" tvg-name="TMW  Radio Tv (Tutto Mercato Web)" tvg-logo="https://www.tmwradio.com/template/tmwradio.com/default/img/1280x720.jpg" group-title="Tutti" tvg-chno="151", TMW  Radio Tv (Tutto Mercato Web)
 https://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="6093f9281db477000:(" tvg-name="Espn" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Tutti" tvg-chno="152", 7Gold Emilia Romagna
+#EXTINF:-1 tvg-id="6093f9281db477000:(" tvg-name="Espn" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Tutti" tvg-chno="152", ESPN
 http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
-#EXTINF:-1 tvg-id="6093f9281db477000dhh" tvg-name="HBO" tvg-logo="https://cdn-icons-png.flaticon.com/512/5968/5968611.png" group-title="Tutti" tvg-chno="153", Telecity Lombardia
+#EXTINF:-1 tvg-id="6093f9281db477000dhh" tvg-name="HBO" tvg-logo="https://cdn-icons-png.flaticon.com/512/5968/5968611.png" group-title="Tutti" tvg-chno="153", HBO
 https://tvpass.org/live/HBOEast/hd
 #EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-chno="158" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png" group-title="Tutti",RADIO KISS KISS TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
@@ -273,7 +273,7 @@ https://streaming.shoutcast.com/radiocigliano
 https://christmashits.stream.laut.fm/christmashits?t302=2025-07-15_10-58-50&uuid=55df57a3-ad54-4d98-a610-8ecac4c134cd
 #EXTINF:-1 tvg-id="63eb82e24e83e707008ab73jjg" tvg-name="Radio Natale" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIdqe018Z87OEfio-YBwswHZOfITIP2BliBg&usqp=CAU" group-title="Tutti" tvg-chno="923",Radio Natale
 https://streaming.radiostreamlive.com/radionatale_devices
-#EXTINF:-1 tvg-id="63eb82e6h24e83e707008abgtxcuwc" tvg-name="Times Square Earthcam" tvg-logo="https://constructioninnovation.travelers.com/images/solutions/1684347599-EC_Logo_Square.png" group-title="Tutti" tvg-chno="53",Radio 98.3 WSUL
+#EXTINF:-1 tvg-id="63eb82e6h24e83e707008abgtxcuwc" tvg-name="Times Square Earthcam" tvg-logo="https://constructioninnovation.travelers.com/images/solutions/1684347599-EC_Logo_Square.png" group-title="Tutti" tvg-chno="53",Times Square Earthcam
 https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
 #EXTINF:-1 tvg-name="Senato TV" tvg-logo="https://i.imgur.com/FoQoNZW.png" tvg-id="SenatoTV.it"group-title="Tutti" tvg-chno="924",Senato TV
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
@@ -309,6 +309,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1192000_slita.m3u8
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://www.fm-world.it/wp-content/uploads/2025/07/seriea00.png" group-title="Tutti",Radio TV Serie A
 https://raw.githubusercontent.com/giuseppefuscoweb/F/refs/heads/main/master.m3u8
+
 
 
 
