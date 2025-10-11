@@ -150,7 +150,7 @@ http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&force
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-chno="60" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/sportitalia.png" group-title="Tutti",Sportitalia
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="il61 Netweek" tvg-logo="https://i.imgur.com/1rUZsBv.png"group-title="Tutti" tvg-chno="61" ="Italy",il61
+#EXTINF:-1 tvg-id="il 61 Netweek" tvg-logo="https://i.imgur.com/1rUZsBv.png"group-title="Tutti" tvg-chno="61" ="Italy",il61
 https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 #EXTINF:-1 tvg-id="DonnaTV.it" tvg-chno="62" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/donnatv.png" group-title="Tutti",Donna TV
 https://5a1178b42cc03.streamlock.net/donnatv/donnatv/chunklist_w724918149.m3u8
@@ -181,17 +181,17 @@ https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 https://stitcher.pluto.tv/stitch/hls/channel/660bfc4424e1d000085b5f93livestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=340d47b8-53b7-11f0-a82d-be3b20bfaa79&profilesFromStream=true
 #EXTINF:-1 tvg-chno=147 tvg-id="fifa-plus-it-new" tvg-name="FIFA+ Rakuten Tv" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/04/fifa-plus-logo.png" group-title="Tutti",FIFA+ Rakuten Tv
 https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=it&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6129&ads.rtv_content_language=ita&ads.rtvid=271861&ads.streaming_id=162dbdd8-f52b-4d81-8733-7a6304e23cd5&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1779
-#EXTINF:-1 tvg-id="6093f9281db477hdgshever" tvg-name="SportItalia HD Plus" tvg-logo="https://uptradebiz.it/wp-content/uploads/2024/05/Samsung-TV-Plus-SPORTITALIA-HD.png" group-title="Tutti" tvg-chno="148", SportItalia HD Plus
+#EXTINF:-1 tvg-id="Sportitalia" tvg-name="SportItalia HD Plus" tvg-logo="https://uptradebiz.it/wp-content/uploads/2024/05/Samsung-TV-Plus-SPORTITALIA-HD.png" group-title="Tutti" tvg-chno="148", SportItalia HD Plus
 https://jmp2.uk/stvp-ITBA2200010O1
-#EXTINF:-1 tvg-id="6093f9281db477hdgshevekd" tvg-name="SportItalia Solocalcio HD" tvg-logo="https://www.tivu.tv/_common/images/cover-canali/si-solo-calcio.jpg" group-title="Tutti" tvg-chno="149", SportItalia Solocalcio HD
+#EXTINF:-1 tvg-id="sportitalia solocalcio" tvg-name="SportItalia Solocalcio HD" tvg-logo="https://www.tivu.tv/_common/images/cover-canali/si-solo-calcio.jpg" group-title="Tutti" tvg-chno="149", SportItalia Solocalcio HD
 https://jmp2.uk/stvp-ITBC4700002CO?x=abc
-#EXTINF:-1 tvg-id="6093f9281db4770dggdhhdhd" tvg-name="SportItalia Live24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/SI_Live_24_logo_%282019%29.svg" group-title="Tutti" tvg-chno="150", SportItalia Live24
+#EXTINF:-1 tvg-id="sportitalia live 24" tvg-name="SportItalia Live24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/77/SI_Live_24_logo_%282019%29.svg" group-title="Tutti" tvg-chno="150", SportItalia Live24
 https://origin.streamup.eu/sportitaliain/silive24/playlist.m3u8
-#EXTINF:-1 tvg-id="6093f9281db4770dggdhd" tvg-name="TMW  Radio Tv (Tutto Mercato Web)" tvg-logo="https://www.tmwradio.com/template/tmwradio.com/default/img/1280x720.jpg" group-title="Tutti" tvg-chno="151", TMW  Radio Tv (Tutto Mercato Web)
+#EXTINF:-1 tvg-id="tutto mercato web tv" tvg-name="TMW  Radio Tv (Tutto Mercato Web)" tvg-logo="https://www.tmwradio.com/template/tmwradio.com/default/img/1280x720.jpg" group-title="Tutti" tvg-chno="151", TMW  Radio Tv (Tutto Mercato Web)
 https://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="espn usa:(" tvg-name="Espn" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Tutti" tvg-chno="152", ESPN
 http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
-#EXTINF:-1 tvg-id="HBO east us" tvg-name="HBO" tvg-logo="https://cdn-icons-png.flaticon.com/512/5968/5968611.png" group-title="Tutti" tvg-chno="153", HBO
+#EXTINF:-1 tvg-id="HBO home box office east us" tvg-name="HBO" tvg-logo="https://cdn-icons-png.flaticon.com/512/5968/5968611.png" group-title="Tutti" tvg-chno="153", HBO
 https://tvpass.org/live/HBOEast/hd
 #EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-chno="158" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png" group-title="Tutti",RADIO KISS KISS TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
@@ -212,7 +212,7 @@ https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 #EXTINF:-1 tvg-id="ByoBlu.it" tvg-chno="262" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/byoblu.png" group-title="Tutti",Byoblu
 https://09bd1346f7a44cc9ac230cc1cb22ca4f.msvdn.net/live/S39249178/EnTK3KeeN1Eg/playlist.m3u8
-#EXTINF:-1 tvg-id="rds-social" tvg-chno="265" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rdssocialtv.png" group-title="Tutti",RDS Social TV
+#EXTINF:-1 tvg-id="RDS SOCIAL TV" tvg-chno="265" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rdssocialtv.png" group-title="Tutti",RDS Social TV
 https://stream.rdstv.radio/index.m3u8
 #EXTINF:-1 tvg-id="RadioZeta.it" tvg-chno="266" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiozetatv.png" group-title="Tutti",RADIO ZETA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
@@ -287,15 +287,15 @@ https://fl7.moveonjoy.com/FOX_NEWS_CHANNEL/tracks-v1a1/mono.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_4_1064000.m3u8
 #EXTINF:-1 tvg-id="CBS New York NY WCBS-DT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/512px-CBS_2.svg.png" group-title="Tutti",CBS New York NY WCBS-DT1
 https://fl7.moveonjoy.com/CBSEAST/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="NBC New York NY WNBC-DT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png" group-title="Tutti",NBC New York NY WNBC-DT1
+#EXTINF:-1 tvg-id="WNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png" group-title="Tutti",NBC New York NY WNBC-DT1
 https://fl7.moveonjoy.com/NBC_EAST/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ABC New York NY WABC-TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="Tutti",ABC New York NY WABC-TV
+#EXTINF:-1 tvg-id="WABC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="Tutti",ABC New York NY WABC-TV
 https://fl7.moveonjoy.com/ABC_EAST/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="The CW New York NY WPIX" tvg-logo="https://i.ytimg.com/vi/WSldhTo0xp8/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGBMgMyh_MA8=&rs=AOn4CLDXOgEOniRuKFqtOzg0SNoEuIjqkQ" group-title="Tutti",FOX New York NY WNYW
+#EXTINF:-1 tvg-id="WPIX" tvg-logo="https://i.ytimg.com/vi/WSldhTo0xp8/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGBMgMyh_MA8=&rs=AOn4CLDXOgEOniRuKFqtOzg0SNoEuIjqkQ" group-title="Tutti",FOX New York NY WNYW
 https://tvpass.org/live/WNYWDT1/hd
 #EXTINF:-1 tvg-id="The CW New York NY WPIX.us" tvg-logo="https://www.cooptel.ca/wp-content/uploads/2016/07/Wpix-Pix11-1.png" group-title="Tutti",The CW New York NY WPIX
 https://tvpass.org/live/WPIX/hd
-#EXTINF:-1 tvg-id="MyNetworkTV Kansas MYZOU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="Tutti", MyNetworkTV Kansas MYZOU
+#EXTINF:-1 tvg-id="MYZOU" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="Tutti", MyNetworkTV Kansas MYZOU
 https://cvtv.cvalley.net/hls/KZOUMYZOU/KZOUMYZOU.m3u8
 #EXTINF:-1 tvg-id="IONTV.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="Tutti",ION TV
 https://livetv-fa.tubi.video/ion/playlist.m3u8
@@ -309,6 +309,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/_definst_/smil:ch-01.smil/chunklist_b1192000_slita.m3u8
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://www.fm-world.it/wp-content/uploads/2025/07/seriea00.png" group-title="Tutti",Radio TV Serie A
 https://raw.githubusercontent.com/giuseppefuscoweb/F/refs/heads/main/master.m3u8
+
 
 
 
