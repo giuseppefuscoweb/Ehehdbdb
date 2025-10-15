@@ -306,9 +306,10 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 tvg-id="WeatherNationNewYork.us" tvg-logo="https://i.imgur.com/YFFSEd9.png" group-title="Tutti",WeatherNation New York
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61e71d5931746f0007ca3e68/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1029-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7473f3ad-8ef5-46e9-98b7-8a551289db64
 #EXTINF:-1 tvg-id="RTVSanMarino.it" tvg-chno="831" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rtvsanmarino.png" group-title="Tutti",RTV San Marino
-https://livetv-fa.tubi.video/wnyw/index_1.m3u8
+https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1760547380/ei/1H3vaMTtJpfy6dsPvKqoQQ/ip/94.167.44.160/id/rnXIjl_Rzy4.1/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr3---sn-hpa7znzr.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ATw7iSXl0JPHKSGZ8MgUCjDY4JxXAm2fP91AQqzoFC45y7KYB1W0Pro-AcOyAy2_pWQzhrx4Jh_K1xWL/spc/hcYD5dJVjD4wNewKWcu8kNhr5WIw-Uk7oQg6cKZ_TRZRlmycQqnUhQvyvEmMkrDpmMs/vprv/1/playlist_type/DVR/met/1760525781,/mh/K2/mm/44/mn/sn-hpa7znzr/ms/lva/mv/u/mvi/3/pl/22/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51355912,51552689,51565116,51565682,51580968/mt/1760525527/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,playlist_type/sig/AJfQdSswRAIgAaoPViVP2qn5Ta1t7zuxdgHUaUxIPGioR5YGThE4RMsCIDwjmAvpNTV9sOx4VuLYXuZPnfvvBTuz2-jUoX8xsmnM/lsparams/hls_chunk_host,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIhAIr21uBUEe_8_vTwlWSS0qhRhkfjgzLzEHBUM5oT9s9SAiAKn0bONNoirPvPv1XPzdz2ut1LOQJXdsr8o1bh7j9WVg%3D%3D/playlist/index.m3u8
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://www.fm-world.it/wp-content/uploads/2025/07/seriea00.png" group-title="Tutti",Radio TV Serie A
 https://raw.githubusercontent.com/giuseppefuscoweb/F/refs/heads/main/master.m3u8
+
 
 
 
