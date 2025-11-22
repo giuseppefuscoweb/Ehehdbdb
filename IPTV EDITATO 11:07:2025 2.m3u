@@ -308,10 +308,11 @@ http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 http://fl1.moveonjoy.com/USA_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png" group-title="Tutti",WeatherNation New York
 http://fl1.moveonjoy.com/TNT/index.m3u8
-#EXTINF:-1 tvg-id="msnbc" tvg-chno="831" tvg-logo="https://www.petergeorgescu.com/wp-content/uploads/2019/10/msnbc-logo-png-1920.png" group-title="Tutti",RTV San Marino
+#EXTINF:-1 tvg-id="msnbc" tvg-chno="831" tvg-logo="https://yt3.googleusercontent.com/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s900-c-k-c0x00ffffff-no-rj" group-title="Tutti",RTV San Marino
 https://fl31.moveonjoy.com/MSNBC/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://www.fm-world.it/wp-content/uploads/2025/07/seriea00.png" group-title="Tutti",Radio TV Serie A
 https://raw.githubusercontent.com/giuseppefuscoweb/F/refs/heads/main/master.m3u8
+
 
 
 
