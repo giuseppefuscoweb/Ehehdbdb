@@ -69,7 +69,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forc
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="CieloTv.it" tvg-chno="26" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cielo.png" group-title="Tutti",Cielo
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1766492927~exp=1766493227~acl=/*~hmac=903bfb7c242a4211fa3c5330c44013a3f98d9f095396a6f9ce91f3cb67b92f36&CMCD=cid%3D2%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22e941699c-16e9-44c5-9712-e3686e88f4b0%22%2Csu
+https://uvotv.koyeb.app/proxy/https://live.uvotv.com/10010/live/hls/cielo/streams/sessions/b4b67f550c3b41288552ea7182320f5c/media/playlist-orig.m3u8/fstl=exp=1766585323~acl=%2F10010%2Flive%2Fhls%2Fcielo%2F%2A~hmac=748eed957f5e93a9345974a5c63c1497ac7b407a23939db94cc7b292b37e7719/0.m3u8
 #EXTINF:-1 tvg-id="TwentySeven.it" tvg-chno="27" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/twentyseven.png" group-title="Tutti",Twenty Seven
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
@@ -128,7 +128,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUser
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-chno="50" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/skytg24.png" group-title="Tutti",Sky TG24
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556&CMCD=cid%3D1%2Cmtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22fbc469cb-ba11-4454-a849-2c4f2a3d7c9c%22%2Csu
+https://uvotv.koyeb.app/proxy/https://live.uvotv.com/10010/live/hls/skytg24/streams/sessions/0543b1e4d7354b339e406ada8c6e43fe/media/playlist-orig.m3u8/fstl=exp=1766585372~acl=%2F10010%2Flive%2Fhls%2Fskytg24%2F%2A~hmac=091c45c36b5e42021da720b55b3bfef9aeb7e8572cc739ba45598a73b4388ba4/0.m3u8
 #EXTINF:-1 tvg-id="TGCom24.it" tvg-chno="51" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/tgcom24.png" group-title="Tutti",TGCOM 24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
@@ -312,6 +312,7 @@ http://fl1.moveonjoy.com/TNT/index.m3u8
 https://fl31.moveonjoy.com/MSNBC/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://www.fm-world.it/wp-content/uploads/2025/07/seriea00.png" group-title="Tutti",Radio TV Serie A
 https://raw.githubusercontent.com/giuseppefuscoweb/F/refs/heads/main/master.m3u8
+
 
 
 
