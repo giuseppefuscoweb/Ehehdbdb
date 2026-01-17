@@ -315,9 +315,9 @@ https://raw.githubusercontent.com/giuseppefuscoweb/F/refs/heads/main/master.m3u8
 #EXTINF:-1 tvg-id="elisadirivombrosa" tvg-chno="841" tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/fc/ElisadiRivombrosa.png" group-title="Tutti",Elisa di Rivombrosa 
 https://amg02512-nexodigital-amg02512c4-samsung-it-1164.playouts.now.amagi.tv/playlist/amg02512-nexodigital-eastiseast-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0&ads.ifa_type=%7BIFA_TYPE%7D&ads.url=%7BURL%7
 #EXTINF:-1 tvg-id="rai4kitalia" 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
 tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4k.png" group-title="Tutti",Rai4k Italia
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTINF:-1 tvg-id="raiitalia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1280px-Rai_Italia_-_Logo_2017.svg.png" group-title="Tutti",Rai Italia
 https://ilglobotv-live-backup.akamaized.net/RAIItaliaUSA67/Live.m3u8
 #EXTINF:-1 tvg-id="MediasetItalia_US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Mediaset_Italia_%28TV_channel%29.png" group-title="Tutti",Mediaset Italia
@@ -330,6 +330,7 @@ https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
 https://ilglobotv-live-backup.akamaized.net/RAINews66/Live.m3u8
 #EXTINF:-1 tvg-id="RaiPremium68" tvg-logo="https://www.ethnicchannels.com/images/channeldetail/rai-world/rai-world-logo.png" group-title="Tutti",Rai World Premium
 https://ilglobotv-live-backup.akamaized.net/RaiPremium68/Live.m3u8
+
 
 
 
