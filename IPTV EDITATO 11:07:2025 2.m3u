@@ -176,8 +176,8 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850e
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-chno="70" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radioitaliatv.png" group-title="Tutti",RadioItaliaTV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
-#EXTINF:-1 tvg-name="fox5 new york local 1.us" tvg-logo="https://m.media-amazon.com/images/I/71Y4vKBnx7L.png" tvg-id="Vatican-Media-Live"group-title="Tutti" tvg-chno="926",Vatican Media Live
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="fox sports" tvg-chno="101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/2560px-2015_Fox_Sports_1_logo.svg.png" group-title="Tutti",Rai 4K (HbbTV)
+http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 tvg-id="PadrePioTV.it" tvg-chno="145" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/padrepiotv.png" group-title="Tutti",Padre Pio TV
 https://600f07e114306.streamlock.net/PadrePioTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="63eb82e24ekk3e707008kb73dhhs" tvg-name="FIFA+ Pluto Tv" tvg-logo="https://images.pluto.tv/channels/660bfc4424e1d000085b5f93/colorLogoPNG_1750064819565.png" group-title="Tutti" tvg-chno="146",FIFA+ Pluto Tv
@@ -329,6 +329,7 @@ https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
 https://ilglobotv-live-backup.akamaized.net/RAINews66/Live.m3u8
 #EXTINF:-1 tvg-id="RaiPremium68" tvg-logo="https://www.ethnicchannels.com/images/channeldetail/rai-world/rai-world-logo.png" group-title="Tutti",Rai World Premium
 https://ilglobotv-live-backup.akamaized.net/RaiPremium68/Live.m3u8
+
 
 
 
