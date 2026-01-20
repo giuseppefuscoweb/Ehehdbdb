@@ -282,8 +282,8 @@ https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:-1 tvg-name="Camera dei Deputati" tvg-logo="https://i.imgur.com/fqGn1k9.png" tvg-id="CameradeiDeputati.it"group-title="Tutti" tvg-chno="925",Camera dei Deputati
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
-#EXTINF:-1 tvg-name="fox5 new york local 1.us" tvg-logo="https://m.media-amazon.com/images/I/71Y4vKBnx7L.png" tvg-id="Vatican-Media-Live"group-title="Tutti" tvg-chno="926",Vatican Media Live
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+#EXTINF:-1 tvg-name="msnbc_USA" tvg-logo="https://m.media-amazon.com/images/I/71Y4vKBnx7L.png" tvg-id="Vatican-Media-Live"group-title="Tutti" tvg-chno="926",Vatican Media Live
+http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="FoxNewsChannel.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png"group-title="Tutti" tvg-chno="919" http-referrer="https://www.newslive.com/" http-user-agent="Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1",Fox News Channel
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
 #EXTINF:-1 tvg-id="63eb82e24e83e790008kb7fuhdhe" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png" group-title="Tutti" tvg-chno="928", CNN
@@ -308,8 +308,8 @@ https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/m
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
 #EXTINF:-1 tvg-id="nbc_news_newyork" tvg-logo="https://media.nbcnewyork.com/2019/09/nbc-4-logo.jpg?quality=85&strip=all&resize=1200%2C675" group-title="Tutti",WeatherNation New York
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65790c72cbd0d60008fac4d0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5100-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1590d16f-7216-4de9-80e8-cd9f77d26da8
-#EXTINF:-1 tvg-id="msnbc_USA" tvg-chno="831" tvg-logo="https://yt3.googleusercontent.com/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s900-c-k-c0x00ffffff-no-rj" group-title="Tutti",RTV San Marino
-http://41.205.93.154/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="fox5 new york local 1.us" tvg-chno="831" tvg-logo="https://m.media-amazon.com/images/I/71Y4vKBnx7L.png" group-title="Tutti",RTV San Marino
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://www.fm-world.it/wp-content/uploads/2025/07/seriea00.png" group-title="Tutti",Radio TV Serie A
 https://raw.githubusercontent.com/giuseppefuscoweb/F/refs/heads/main/master.m3u8
 #EXTINF:-1 tvg-id="CBSNewsLive.us@SD" tvg-logo="https://www.paramountshop.com/cdn/shop/files/cbs-news-logo-adult-short-sleeve-t-shirt-308460.png?v=1718288868&width=450" group-title="Tutti",CBS News
@@ -337,6 +337,7 @@ https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
 https://ilglobotv-live-backup.akamaized.net/RAINews66/Live.m3u8
 #EXTINF:-1 tvg-id="RaiPremium_usa" tvg-logo="https://www.ethnicchannels.com/images/channeldetail/rai-world/rai-world-logo.png" group-title="Tutti",Rai World Premium
 https://ilglobotv-live-backup.akamaized.net/RaiPremium68/Live.m3u8
+
 
 
 
