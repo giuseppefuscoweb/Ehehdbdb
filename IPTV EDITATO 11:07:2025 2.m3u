@@ -306,9 +306,9 @@ https://fl1.moveonjoy.com/ION_TV/index.m3u8
 https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
 #EXTINF:-1 tvg-id="WABCDT1247News.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/WABC_TV_New_2021.svg/512px-WABC_TV_New_2021.svg.png" group-title="Tutti",News 12 New York
 https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x7_news.m3u8
-#EXTINF:-1 tvg-id="nbcnewsnewyork" tvg-logo="https://media.nbcnewyork.com/2019/09/nbc-4-logo.jpg?quality=85&strip=all&resize=1200%2C675" group-title="Tutti",WeatherNation New York
+#EXTINF:-1 tvg-id="nbc_news_newyork" tvg-logo="https://media.nbcnewyork.com/2019/09/nbc-4-logo.jpg?quality=85&strip=all&resize=1200%2C675" group-title="Tutti",WeatherNation New York
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65790c72cbd0d60008fac4d0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5100-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1590d16f-7216-4de9-80e8-cd9f77d26da8
-#EXTINF:-1 tvg-id="msnbc" tvg-chno="831" tvg-logo="https://yt3.googleusercontent.com/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s900-c-k-c0x00ffffff-no-rj" group-title="Tutti",RTV San Marino
+#EXTINF:-1 tvg-id="msnbc_USA" tvg-chno="831" tvg-logo="https://yt3.googleusercontent.com/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s900-c-k-c0x00ffffff-no-rj" group-title="Tutti",RTV San Marino
 http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://www.fm-world.it/wp-content/uploads/2025/07/seriea00.png" group-title="Tutti",Radio TV Serie A
 https://raw.githubusercontent.com/giuseppefuscoweb/F/refs/heads/main/master.m3u8
@@ -320,21 +320,22 @@ https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="elisadirivombrosa" tvg-chno="841" tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/fc/ElisadiRivombrosa.png" group-title="Tutti",Elisa di Rivombrosa 
 https://amg02512-nexodigital-amg02512c4-samsung-it-1164.playouts.now.amagi.tv/playlist/amg02512-nexodigital-eastiseast-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0&ads.ifa_type=%7BIFA_TYPE%7D&ads.url=%7BURL%7
-#EXTINF:-1 tvg-id="rai4kitalia" tvg-chno="844" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4k.png" group-title="Tutti",Rai4k-Italia
+#EXTINF:-1 tvg-id="rai_4k_italia" tvg-chno="844" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4k.png" group-title="Tutti",Rai4k-Italia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
-#EXTINF:-1 tvg-id="raiitalia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1280px-Rai_Italia_-_Logo_2017.svg.png" group-title="Tutti",Rai Italia
+#EXTINF:-1 tvg-id="rai_italia_USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1280px-Rai_Italia_-_Logo_2017.svg.png" group-title="Tutti",Rai Italia
 https://ilglobotv-live-backup.akamaized.net/RAIItaliaUSA67/Live.m3u8
-#EXTINF:-1 tvg-id="MediasetItalia_US" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Mediaset_Italia_%28TV_channel%29.png" group-title="Tutti",Mediaset Italia
+#EXTINF:-1 tvg-id="MediasetItalia_USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Mediaset_Italia_%28TV_channel%29.png" group-title="Tutti",Mediaset Italia
 https://ilglobotv-live.akamaized.net/channels/MediasetItalia_US/Live.m3u8
-#EXTINF:-1 tvg-id="La7Italia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh-iVzCZLck2hUpr5qv1tIZX1hTPgwHfDOUMb22g4l6HcXrydwOVcHLWE&s=10" group-title="Tutti",La7 Italia
+#EXTINF:-1 tvg-id="La7_Italia" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh-iVzCZLck2hUpr5qv1tIZX1hTPgwHfDOUMb22g4l6HcXrydwOVcHLWE&s=10" group-title="Tutti",La7 Italia
 https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
-#EXTINF:-1 tvg-id="TGCOM24usa" tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/1a/Mediaset_TGCom24.png" group-title="Tutti",TGCOM24 Italia
+#EXTINF:-1 tvg-id="TGCOM24_usa" tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/1a/Mediaset_TGCom24.png" group-title="Tutti",TGCOM24 Italia
 https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
-#EXTINF:-1 tvg-id="RAINews66" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/1280px-Rai_News_24_logo_%282022%29.svg.png" group-title="Tutti", Rai News 24 Italia
+#EXTINF:-1 tvg-id="RAINews24_usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/1280px-Rai_News_24_logo_%282022%29.svg.png" group-title="Tutti", Rai News 24 Italia
 https://ilglobotv-live-backup.akamaized.net/RAINews66/Live.m3u8
-#EXTINF:-1 tvg-id="RaiPremium68" tvg-logo="https://www.ethnicchannels.com/images/channeldetail/rai-world/rai-world-logo.png" group-title="Tutti",Rai World Premium
+#EXTINF:-1 tvg-id="RaiPremium_usa" tvg-logo="https://www.ethnicchannels.com/images/channeldetail/rai-world/rai-world-logo.png" group-title="Tutti",Rai World Premium
 https://ilglobotv-live-backup.akamaized.net/RaiPremium68/Live.m3u8
+
 
 
 
