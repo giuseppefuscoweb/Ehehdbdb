@@ -313,7 +313,7 @@ http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://www.fm-world.it/wp-content/uploads/2025/07/seriea00.png" group-title="Tutti",Radio TV Serie A
 https://raw.githubusercontent.com/giuseppefuscoweb/F/refs/heads/main/master.m3u8
 #EXTINF:-1 tvg-id="CBSNewsLive.us@SD" tvg-logo="https://www.paramountshop.com/cdn/shop/files/cbs-news-logo-adult-short-sleeve-t-shirt-308460.png?v=1718288868&width=450" group-title="Tutti",CBS News
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62441d6ded1827000763dcda/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cee83-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bddfb08-ac57-4769-a092-8bfc7ce71e23
+https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtl8doMCLebrCAnr2V6NsoGUOkEIohF614g&s" group-title="Tutti",NBC News
 https://livehub-voidnet.onrender.com/cluster/streamcore/us/NBC_REDIS.m3u8
 #EXTINF:-1 tvg-id="ABCNewsLive.us@SD" tvg-logo="https://dlgie0dznny76.cloudfront.net/wp-content/uploads/2018/02/13143430/abcnews-logo.jpg" group-title="Tutti",ABC News
@@ -337,6 +337,7 @@ https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
 https://ilglobotv-live-backup.akamaized.net/RAINews66/Live.m3u8
 #EXTINF:-1 tvg-id="RaiPremium_usa" tvg-logo="https://www.ethnicchannels.com/images/channeldetail/rai-world/rai-world-logo.png" group-title="Tutti",Rai World Premium
 https://ilglobotv-live-backup.akamaized.net/RaiPremium68/Live.m3u8
+
 
 
 
