@@ -367,7 +367,7 @@ https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-ra
 http://fl1.moveonjoy.com/HBO/index.m3u8
 #EXTINF:-1 tvg-id="Showtime.us@East"group-title="Tutti",Showtime
 https://fl1.moveonjoy.com/SHOWTIME/index.m3u8 
-EXTINF:-1 tvg-id="Showtime2.us@East"group-title="Tutti",Showtime 2
+#EXTINF:-1 tvg-id="Showtime2.us@East"group-title="Tutti",Showtime 2
 https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
 #EXTINF:-1 tvg-id="ShowtimeNext.us@East"group-title="Tutti",Showtime Next
 https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
@@ -377,7 +377,7 @@ https://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
 https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
 #EXTINF:-1 tvg-id="SonyChannel.mx@SD"group-title="Tutti",Sony Channel
 https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-EXTINF:-1 tvg-id="Starz.us@East"group-title="Tutti",Starz
+#EXTINF:-1 tvg-id="Starz.us@East"group-title="Tutti",Starz
 https://fl1.moveonjoy.com/STARZ/index.m3u8
 #EXTINF:-1 tvg-id="StarzEncoreClassic.us@East"group-title="Tutti",Starz Encore Classic
 https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
@@ -411,7 +411,7 @@ https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTINF:-1 tvg-id="OutdoorChannel.us@SD"group-title="Tutti",Outdoor Channel
 https://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-EXTINF:-1 tvg-id="ParamountNetwork.us@East"group-title="Tutti",Paramount Network
+#EXTINF:-1 tvg-id="ParamountNetwork.us@East"group-title="Tutti",Paramount Network
 https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="WMAQDT1.us@SD"group-title="Tutti",NBC Chicago
 https://fl1.moveonjoy.com/IL_Chicago_NBC/index.m3u8
@@ -445,6 +445,7 @@ https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 https://fl1.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.us@East"group-title="Tutti",National Geographic Wild
 https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+
 
 
 
