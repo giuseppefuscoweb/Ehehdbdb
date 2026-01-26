@@ -335,15 +335,15 @@ https://ilglobotv-live-backup.akamaized.net/RaiPremium68/Live.m3u8
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fff49cfb5cd4f0007c2b0dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5103-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c438c5e4-4d4e-4037-8b44-c6782c44b796
 #EXTINF:-1 tvg-id="WeatherNationNewYork.us" tvg-logo="https://i.imgur.com/YFFSEd9.png" group-title="Tutti",WeatherNation New York
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61e71d5931746f0007ca3e68/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1029-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7473f3ad-8ef5-46e9-98b7-8a551289db64
-#EXTINF:-1 tvg-id="NewsmaxTV.us@SD",Newsmax TV 
+#EXTINF:-1 tvg-id="NewsmaxTV.us@SD"group-title="Tutti",Newsmax TV 
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 tvg-id="NewsNation.us@East",News Nation
 https://fl1.moveonjoy.com/NEWS_NATION/index.m3u8
 #EXTINF:-1 tvg-id="espn usa:(" tvg-name="Espn" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Tutti" tvg-chno="152", ESPN
 http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
-#EXTINF:-1 tvg-id="ESPNU.us@SD",ESPN U 
+#EXTINF:-1 tvg-id="ESPNU.us@SD"group-title="Tutti" ,ESPN U 
 https://fl1.moveonjoy.com/ESPN_U/index.m3u8
-#EXTINF:-1 tvg-id="ESPNews.us@SD",ESPNews
+#EXTINF:-1 tvg-id="ESPNews.us@SD"group-title="Tutti",ESPNews
 https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
 #EXTINF:-1 tvg-id="fox sports" tvg-chno="101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/2560px-2015_Fox_Sports_1_logo.svg.png" group-title="Tutti", Fox Sports 1
 http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
@@ -351,100 +351,101 @@ http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
 https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="cbs sports golazo network" tvg-chno="68" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/09/18/image_80849179721695046851257-ygud8tyd.png" group-title="Tutti", CBS Sports Golazo Network
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=0&appVersion=0&clientModelNumber=1.0.0&country=IT&deviceDNT=false&deviceId=0&deviceLat=45.4640&deviceLon=9.1919&serverSideAds=false&marketingRegion=IT&masterJWTPassthrough=true&includeExtendedEvents=true&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="NFLCHANNEL.us@SD",NFL Channel
+#EXTINF:-1 tvg-id="NFLCHANNEL.us@SD"group-title="Tutti",NFL Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
-#EXTINF:-1 tvg-id="NBATV.us@SD",NBA TV
+#EXTINF:-1 tvg-id="NBATV.us@SD"group-title="Tutti",NBA TV
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
-#EXTINF:-1 tvg-id="MLBNetwork.us@SD",MLB Network
+#EXTINF:-1 tvg-id="MLBNetwork.us@SD"group-title="Tutti",MLB Network
 https://fl1.moveonjoy.com/MLB_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="TennisChannel.us@SD",Tennis Channel
+#EXTINF:-1 tvg-id="TennisChannel.us@SD"group-title="Tutti",Tennis Channel
 https://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 tvg-id="GolfChannel.us@SD",Golf Channel
+#EXTINF:-1 tvg-id="GolfChannel.us@SD"group-title="Tutti",Golf Channel
 https://fl1.moveonjoy.com/GOLF/index.m3u8
-#EXTINF:-1 tvg-id="DaznCombat.us@SD", DAZN Combat
+#EXTINF:-1 tvg-id="DaznCombat.us@SD"group-title="Tutti", DAZN Combat
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 tvg-id="HBO home box office east us" tvg-name="HBO" tvg-logo="https://cdn-icons-png.flaticon.com/512/5968/5968611.png" group-title="Tutti" tvg-chno="153", HBO
 http://fl1.moveonjoy.com/HBO/index.m3u8
-#EXTINF:-1 tvg-id="Showtime.us@East",Showtime
+#EXTINF:-1 tvg-id="Showtime.us@East"group-title="Tutti",Showtime
 https://fl1.moveonjoy.com/SHOWTIME/index.m3u8 
-EXTINF:-1 tvg-id="Showtime2.us@East",Showtime 2
+EXTINF:-1 tvg-id="Showtime2.us@East"group-title="Tutti",Showtime 2
 https://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeNext.us@East",Showtime Next
+#EXTINF:-1 tvg-id="ShowtimeNext.us@East"group-title="Tutti",Showtime Next
 https://fl1.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
-#EXTINF:-1 tvg-id="Showtime.us@West",Showtime West 
+#EXTINF:-1 tvg-id="Showtime.us@West"group-title="Tutti",Showtime West 
 https://fl1.moveonjoy.com/SHOWTIME_WEST/index.m3u8
-#EXTINF:-1 tvg-id="ShowtimeWomen.us@East",Showtime Women East
+#EXTINF:-1 tvg-id="ShowtimeWomen.us@East"group-title="Tutti",Showtime Women East
 https://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1 tvg-id="SonyChannel.mx@SD",Sony Channel
+#EXTINF:-1 tvg-id="SonyChannel.mx@SD"group-title="Tutti",Sony Channel
 https://fl1.moveonjoy.com/Sony_Movie_Channel/index.m3u8
-EXTINF:-1 tvg-id="Starz.us@East",Starz
+EXTINF:-1 tvg-id="Starz.us@East"group-title="Tutti",Starz
 https://fl1.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 tvg-id="StarzEncoreClassic.us@East",Starz Encore Classic
+#EXTINF:-1 tvg-id="StarzEncoreClassic.us@East"group-title="Tutti",Starz Encore Classic
 https://fl1.moveonjoy.com/STARZ_ENCORE_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="Starz.us@West",Starz West
+#EXTINF:-1 tvg-id="Starz.us@West" group-title="Tutti" , Starz West
 https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8
-#EXTINF:-1 tvg-id="StoriesbyAMC.us@EastHD",AMC
+#EXTINF:-1 tvg-id="StoriesbyAMC.us@EastHD"group-title="Tutti",AMC
 http://fl1.moveonjoy.com/AMC_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="SundanceTV.us@East",Sundance TV 
+#EXTINF:-1 tvg-id="SundanceTV.us@East"group-title="Tutti",Sundance TV 
 https://fl1.moveonjoy.com/SUNDANCE/index.m3u8
-#EXTINF:-1 tvg-id="Syfy.us@East",Syfy East
+#EXTINF:-1 tvg-id="Syfy.us@East"group-title="Tutti",Syfy East
 https://fl1.moveonjoy.com/SYFY/index.m3u8
-#EXTINF:-1 tvg-id="TeenNick.us@East",TeenNick
+#EXTINF:-1 tvg-id="TeenNick.us@East"group-title="Tutti",TeenNick
 https://fl1.moveonjoy.com/Teen_Nick/index.m3u8
-#EXTINF:-1 tvg-id="VH1.us@East",VH1
+#EXTINF:-1 tvg-id="VH1.us@East"group-title="Tutti",VH1
 https://fl1.moveonjoy.com/VH1/index.m3u8
-#EXTINF:-1 tvg-id="BBCAmerica.us@East" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2024/02/BBC-LOGO.png", BBC America
+#EXTINF:-1 tvg-id="BBCAmerica.us@East" tvg-logo="https://s10019.cdn.ncms.io/wp-content/uploads/2024/02/BBC-LOGO.png"group-title="Tutti", BBC America
 https://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1 tvg-id="DisneyChannel.us@East",Disney Channel East
+#EXTINF:-1 tvg-id="DisneyChannel.us@East"group-title="Tutti",Disney Channel
 https://fl1.moveonjoy.com/DISNEY/index.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.us@East",Disney Junior East
+#EXTINF:-1 tvg-id="DisneyJunior.us@East"group-title="Tutti",Disney Junior
 https://fl1.moveonjoy.com/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-id="DisneyXD.us@East",Disney XD
+#EXTINF:-1 tvg-id="DisneyXD.us@East"group-title="Tutti",Disney XD
 http://fl1.moveonjoy.com/DISNEY_XD/index.m3u8
-#EXTINF:-1 tvg-id="E.us@East",E! East
+#EXTINF:-1 tvg-id="E.us@East"group-title="Tutti",E! East
 https://fl1.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8
-#EXTINF:-1 tvg-id="NickJr.us@East",Nick Jr.
+#EXTINF:-1 tvg-id="NickJr.us@East"group-title="Tutti",Nick Jr.
 https://fl1.moveonjoy.com/NICK_JR/index.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.us@East",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.us@East"group-title="Tutti",Nickelodeon
 https://fl1.moveonjoy.com/NICKELODEON/index.m3u8
-#EXTINF:-1 tvg-id="Nicktoons.us@East",Nicktoons East
+#EXTINF:-1 tvg-id="Nicktoons.us@East"group-title="Tutti",Nicktoons East
 https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
-#EXTINF:-1 tvg-id="OutdoorChannel.us@SD",Outdoor Channel
+#EXTINF:-1 tvg-id="OutdoorChannel.us@SD"group-title="Tutti",Outdoor Channel
 https://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
-EXTINF:-1 tvg-id="ParamountNetwork.us@East",Paramount Network
+EXTINF:-1 tvg-id="ParamountNetwork.us@East"group-title="Tutti",Paramount Network
 https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="WMAQDT1.us@SD",NBC Chicago
+#EXTINF:-1 tvg-id="WMAQDT1.us@SD"group-title="Tutti",NBC Chicago
 https://fl1.moveonjoy.com/IL_Chicago_NBC/index.m3u8
-#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD",Fox Business Network
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD"group-title="Tutti",Fox Business Network
 https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
-#EXTINF:-1 tvg-id="WFLDDT1.us@SD",FOX Chicago
+#EXTINF:-1 tvg-id="WFLDDT1.us@SD"group-title="Tutti",FOX Chicago
 https://fl1.moveonjoy.com/IL_Chicago_FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxSoul.us@SD",Fox Soul
+#EXTINF:-1 tvg-id="FoxSoul.us@SD"group-title="Tutti",Fox Soul
 https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
-#EXTINF:-1 tvg-id="FX.us@East",FX
+#EXTINF:-1 tvg-id="FX.us@East"group-title="Tutti",FX
 https://fl1.moveonjoy.com/FX/index.m3u8
-#EXTINF:-1 tvg-id="FXM.us@East",FXM
+#EXTINF:-1 tvg-id="FXM.us@East"group-title="Tutti",FXM
 https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8
-#EXTINF:-1 tvg-id="FXX.us@East",FXX
+#EXTINF:-1 tvg-id="FXX.us@East"group-title="Tutti",FXX
 https://fl1.moveonjoy.com/FXX/index.m3u8
-#EXTINF:-1 tvg-id="History.us@East",History
+#EXTINF:-1 tvg-id="History.us@East"group-title="Tutti",History
 https://fl1.moveonjoy.com/history_channel/index.m3u8
-#EXTINF:-1 tvg-id="MeTV.us@SD",MeTV
+#EXTINF:-1 tvg-id="MeTV.us@SD"group-title="Tutti",MeTV
 https://fl1.moveonjoy.com/ME_TV/index.m3u8
-#EXTINF:-1 tvg-id="MGMPlus.us@East",MGM+
+#EXTINF:-1 tvg-id="MGMPlus.us@East"group-title="Tutti",MGM+
 https://fl1.moveonjoy.com/EPIX/index.m3u8
-#EXTINF:-1 tvg-id="MTV.us@East",MTV
+#EXTINF:-1 tvg-id="MTV.us@East"group-title="Tutti",MTV
 https://fl1.moveonjoy.com/MTV/index.m3u8
-#EXTINF:-1 tvg-id="MTV2.us@East",MTV2
+#EXTINF:-1 tvg-id="MTV2.us@East"group-title="Tutti",MTV2
 https://fl1.moveonjoy.com/MTV_2/index.m3u8
-#EXTINF:-1 tvg-id="MTVClassic.us@East",MTV Classic 
+#EXTINF:-1 tvg-id="MTVClassic.us@East"group-title="Tutti",MTV Classic 
 https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
-#EXTINF:-1 tvg-id="MTVLive.us@SD",MTV Live
+#EXTINF:-1 tvg-id="MTVLive.us@SD"group-title="Tutti",MTV Live
 https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.us@East",National Geographic
+#EXTINF:-1 tvg-id="NationalGeographic.us@East"group-title="Tutti",National Geographic
 https://fl1.moveonjoy.com/National_Geographic/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.us@East",National Geographic Wild
+#EXTINF:-1 tvg-id="NationalGeographicWild.us@East"group-title="Tutti",National Geographic Wild
 https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+
 
 
 
