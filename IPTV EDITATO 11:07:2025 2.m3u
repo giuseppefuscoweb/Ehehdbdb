@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://tvit.leicaflorianrobert.dev/epg/list.xml"
+#EXTM3U x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz"
 #EXTM3U x-tvg-url="https://epghub.xyz/epg/EPG-US.xml.gz"
 #EXTM3U x-tvg-url="https://epghub.xyz/epg/EPG-US-LOCALS.xml.gz"
 #EXTM3U x-tvg-url="https://epghub.xyz/epg/EPG-US-SPORTS.xml.gz"
@@ -442,6 +443,7 @@ https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 https://fl1.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicWild.us@East"group-title="Tutti",National Geographic Wild
 https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
+
 
 
 
