@@ -275,14 +275,14 @@ https://streaming.shoutcast.com/radiocigliano
 https://christmashits.stream.laut.fm/christmashits?t302=2025-07-15_10-58-50&uuid=55df57a3-ad54-4d98-a610-8ecac4c134cd
 #EXTINF:-1 tvg-id="63eb82e24e83e707008ab73jjg" tvg-name="Radio Natale" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIdqe018Z87OEfio-YBwswHZOfITIP2BliBg&usqp=CAU" group-title="Tutti" tvg-chno="923",Radio Natale
 https://streaming.radiostreamlive.com/radionatale_devices
+#EXTINF:-1 tvg-id="elisadirivombrosa" tvg-chno="841" tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/fc/ElisadiRivombrosa.png" group-title="Tutti",Elisa di Rivombrosa 
+https://amg02512-nexodigital-amg02512c4-samsung-it-1164.playouts.now.amagi.tv/playlist/amg02512-nexodigital-eastiseast-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0&ads.ifa_type=%7BIFA_TYPE%7D&ads.url=%7BURL%7
 #EXTINF:-1 tvg-name="Senato TV" tvg-logo="https://i.imgur.com/FoQoNZW.png" tvg-id="SenatoTV.it"group-title="Tutti" tvg-chno="924",Senato TV
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:-1 tvg-name="Camera dei Deputati" tvg-logo="https://i.imgur.com/fqGn1k9.png" tvg-id="CameradeiDeputati.it"group-title="Tutti" tvg-chno="925",Camera dei Deputati
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 #EXTINF:-1 tvg-id="63eb82e6h24e83e707008abgtxcuwc" tvg-name="Times Square Earthcam" tvg-logo="https://ftp.fau.de/xbmc/addons/leia/plugin.video.earthcam/resources/images/icon.png" group-title="Tutti" tvg-chno="53",Times Square Earthcam
 https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
-#EXTINF:-1 tvg-id="elisadirivombrosa" tvg-chno="841" tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/fc/ElisadiRivombrosa.png" group-title="Tutti",Elisa di Rivombrosa 
-https://amg02512-nexodigital-amg02512c4-samsung-it-1164.playouts.now.amagi.tv/playlist/amg02512-nexodigital-eastiseast-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0&ads.ifa_type=%7BIFA_TYPE%7D&ads.url=%7BURL%7
 #EXTINF:-1 tvg-id="FoxNewsChannel.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png"group-title="Tutti",Fox News Channel
 #EXTVLCOPT:http-referrer=https://www.newslive.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
@@ -453,6 +453,7 @@ https://fl1.moveonjoy.com/National_Geographic/index.m3u8
 https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-id="IONPlus.us@East"group-title="Tutti",ION Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+
 
 
 
