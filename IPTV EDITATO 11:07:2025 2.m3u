@@ -287,9 +287,9 @@ https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
 #EXTVLCOPT:http-referrer=https://www.newslive.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
-#EXTINF:-1 tvg-id="63eb82e24e83e790008kb7fuhdhe" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png" group-title="Tutti" tvg-chno="928", CNN
-https://fl41.moveonjoy.com/CNN/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="msnbc_USA" tvg-logo="https://yt3.googleusercontent.com/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s900-c-k-c0x00ffffff-no-rj" tvg-id="Vatican-Media-Live"group-title="Tutti" tvg-chno="926",MS Now
+#EXTINF:-1 tvg-id="cnn.usa" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/2560px-CNN.svg.png" group-title="Tutti" tvg-chno="928", CNN
+http://fl1.moveonjoy.com/CNN/index.m3u8
+#EXTINF:-1 tvg-name="msnow_USA" tvg-logo="https://yt3.googleusercontent.com/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s900-c-k-c0x00ffffff-no-rj" tvg-id="Vatican-Media-Live"group-title="Tutti" tvg-chno="926",MS Now
 http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="CBS New York NY WCBS-DT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/512px-CBS_2.svg.png" group-title="Tutti",CBS New York NY WCBS-DT1
 https://fl1.moveonjoy.com/CBS/index.m3u8
@@ -453,6 +453,7 @@ https://fl1.moveonjoy.com/National_Geographic/index.m3u8
 https://fl1.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 #EXTINF:-1 tvg-id="IONPlus.us@East"group-title="Tutti",ION Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+
 
 
 
