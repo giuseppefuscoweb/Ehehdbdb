@@ -157,7 +157,7 @@ https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="il 61 Netweek" tvg-logo="https://i.imgur.com/1rUZsBv.png"group-title="Tutti" tvg-chno="61" ="Italy",il61
 https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
-#EXTINF:-1 tvg-id="63eb82e6h24e83e707008habgtxct" tvg-name="Sportitalia SOLOCALCIO" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Tutti" tvg-chno="62",Sportitalia SOLOCALCIO
+#EXTINF:-1 tvg-id="63eb82e6h24e83e707008habgtxct" tvg-name="Sportitalia SOLOCALCIO" tvg-logo="https://www.tvdream.net/img/si-solocalcio.jpg" group-title="Tutti" tvg-chno="62",Sportitalia SOLOCALCIO
 https://jmp2.uk/stvp-ITBC4700002CO?x=abcd
 #EXTINF:-1 tvg-id="7gold" tvg-name="7Gold Sport" tvg-logo="https://www.tvdream.net/img/7gold_476x249.jpg" group-title="Tutti" tvg-chno="63",7Gold Sport
 https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8?ref=1
@@ -278,8 +278,6 @@ https://streaming.shoutcast.com/radiocigliano
 https://christmashits.stream.laut.fm/christmashits?t302=2025-07-15_10-58-50&uuid=55df57a3-ad54-4d98-a610-8ecac4c134cd
 #EXTINF:-1 tvg-id="63eb82e24e83e707008ab73jjg" tvg-name="Radio Natale" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIdqe018Z87OEfio-YBwswHZOfITIP2BliBg&usqp=CAU" group-title="Tutti" tvg-chno="923",Radio Natale
 https://streaming.radiostreamlive.com/radionatale_devices
-#EXTINF:-1 tvg-id="elisadirivombrosa" tvg-chno="841" tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/fc/ElisadiRivombrosa.png" group-title="Tutti",Elisa di Rivombrosa 
-https://amg02512-nexodigital-amg02512c4-samsung-it-1164.playouts.now.amagi.tv/playlist/amg02512-nexodigital-eastiseast-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0&ads.ifa_type=%7BIFA_TYPE%7D&ads.url=%7BURL%7
 #EXTINF:-1 tvg-name="Senato TV" tvg-logo="https://i.imgur.com/FoQoNZW.png" tvg-id="SenatoTV.it"group-title="Tutti" tvg-chno="924",Senato TV
 https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:-1 tvg-name="Camera dei Deputati" tvg-logo="https://i.imgur.com/fqGn1k9.png" tvg-id="CameradeiDeputati.it"group-title="Tutti" tvg-chno="925",Camera dei Deputati
@@ -450,6 +448,63 @@ https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 https://fl1.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-id="IONPlus.us@East"group-title="Tutti",ION Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+#EXTINF:-1 channel-id="IT3400003D6" tvg-id="IT3400003D6" tvg-chno="4559" tvg-name="Sky Samsung Channels International" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3400003D6_20250819T032318SQUARE.png" group-title="Samsung Channels",Sky Samsung Channels International
+https://jmp2.uk/stvp-IT3400003D6
+#EXTINF:-1 tvg-chno=327 tvg-id="top-barca-eng" tvg-name="TOP Barça" group-title="Tutti",TOP Barça
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 tvg-chno=372 tvg-id="tennis-plus" tvg-name="Tennis+" group-title="Tutti",Tennis+
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0165/playlist.m3u8
+#EXTINF:-1 tvg-name="Rete 8" tvg-logo="https://i.imgur.com/bGsjPRh.png" group-title="Tutti",Rete 8
+https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
+#EXTINF:-1 tvg-name="Rete 8 Sport" tvg-logo="https://i.imgur.com/uUAjWlF.png" group-title="Tutti",Rete 8 Sport
+https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-firenze-viola.jpg" group-title="Tutti",Radio Firenze Viola
+https://tmw.fluid.stream/rfviola_tv/livestream/playlist.m3u8?FLID=1
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/radio-tutto-napoli.png" group-title="Tutti",Radio Tutto Napoli 
+https://tmw.fluid.stream/rtn_tv/livestream/playlist.m3u8?FLID=1
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/teleclubitalia.jpg" group-title="Tutti",TeleClubItalia 
+https://teleclubitalia.iostream.it/teleclubitalia.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/campania-felixtv.jpg" group-title="Tutti",Campania Felix Tv (Italia Felix Tv)
+https://host1.momentotv.live:28443/hls/italiafelix/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/canale-uno-tivù.jpg" group-title="Tutti",Canale Uno Tivù
+https://rst.saiuzwebnetwork.it:8081/canaleuno/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/fl-television.jpg" group-title="Tutti",Capri Spettacoli Tv
+https://rst.saiuzwebnetwork.it:8081/fiestaloca/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/primaset-149.png" group-title="Tutti",Primaset 149
+https://primaset.servizistreaming.it/hls/streamingcanale1.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tvm-napoli-web.JPG" group-title="Tutti",T.V.M. Napoli Web
+https://rst.saiuzwebnetwork.it:8081/tvmnapoliweb/index.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/tele-colore-salerno.png" group-title="Tutti",Tele Colore Salerno
+https://stream10.xdevel.com/video14s975955-1911/stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/partenopea-tv.png" group-title="Tutti",Partenope Tv
+https://diretta.arcapuglia.it:8080/live/partenope/index.m3u8
+#EXTINF:-1 tvg-chno=50 tvg-id="western-e-peplum" tvg-name="CineWestern" group-title="Tutti",CineWestern
+https://f7ad58aa.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X1dQX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-chno=121 tvg-id="risate-dal-sud-ita" tvg-name="Risate dal Sud" group-title="Tutti",Risate dal Sud
+https://ea65571e3aa748d1a0c2a15a8ab8b07a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-it_RisatealSud/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::channels/1-2049/2130-LG-Logo-PNG-100x100_v1.png" group-title="Tutti",209 Cine Natale
+https://937c9e62f5bc49a298cf1b5755195a6a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG-it_CineNatale/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/logo-2-1/72848bd5-a1dc-40e9-9ed5-eb6646413cf5-width400-height200.png" group-title="Tutti",100% Natale - Rakuten TV
+https://family-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=it&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=family-rakuten-tv_it&ads.rtv_content_id=6215&ads.rtv_language=it&ads.viewsize=&channel_id=6215&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/logo-2-1/fa7f4d8e-b380-4d0c-85ee-1830128e9c8a-width400-height200.png" group-title="Tutti",Fantascienza - Rakuten TV
+https://sci-fi-rakuten-tv-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6430/master.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=0&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=it&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rtv_channel_name=sci-fi-rakuten-tv_it&ads.rtv_content_id=6430&ads.rtv_language=it&ads.viewsize=&channel_id=6430&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
+#EXTINF:-1 tvg-logo="https://d3bd0tgyk368z1.cloudfront.net/Images/NATALE_768x432_HomeApp.jpg" group-title="Tutti",210 Christmas Time
+https://amg02512-nexodigital-amg02512c3-lg-it-823.playouts.now.amagi.tv/playlist/amg02512-nexodigital-cinemaexcelsior-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads._fw_atts=[FW_ATTS]&ads.content_livestream=[CONTENT_LIVESTREAM]&ads.prodq=[PRODUCTION_QUALITY]&ads.ic=[IAB_CATEGORY]&ads.network_name=[NETWORK_NAME]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://d2mxb63djushzm.cloudfront.net/images/3B_Channel_logo_400x200px.png" group-title="Tutti",993 3BMeteo Channel
+https://amg22086-ixmedia-amg22086c1-lg-it-8336.playouts.now.amagi.tv/playlist/amg22086-ixmedia-3bmeteo-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
+#EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/logo-2-1/d134e70d-cb58-431f-9ab2-be8ba4b85e10-width400-height200.png" group-title="Tutti",Euronews IN DIRETTA
+https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiM2IwOGU3ZjUtZmVlYi00YjY1LWFlMzAtNWQxNGNjYjk0MTVkIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjoyfQ==/25674/euronews-it.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=1&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=it&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rating=12&ads.rtv_channel_name=euronews-live-ita_it&ads.rtv_content_id=6570&ads.rtv_language=it&ads.viewsize=&channel_id=6570&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
+#EXTINF:-1 channel-id="6581a09edfed030008e12b39" tvg-id="6581a09edfed030008e12b39" tvg-chno="340" tvg-name="Star Trek: The Original Series" tvg-logo="https://images.pluto.tv/channels/6581a09edfed030008e12b39/colorLogoPNG.png" group-title="Tutti",Star Trek: The Original Series
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6581a09edfed030008e12b39/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=b163d7dc-d621-49b4-8154-279e4d64b432&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=1565bb5f-a4e2-443d-ace9-e162ae97609b&userId=&serverSideAds=true
+#EXTINF:-1 channel-id="65cb73d33ba51e00084cabad" tvg-id="65cb73d33ba51e00084cabad" tvg-chno="345" tvg-name="Star Trek: Voyager" tvg-logo="https://images.pluto.tv/channels/65cb73d33ba51e00084cabad/colorLogoPNG.png" group-title="Tutti",Star Trek: Voyager
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65cb73d33ba51e00084cabad/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=69b7a260-f21e-44be-8f0c-eba979704a2b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=7932755f-f4fb-4937-878f-cf08ce2d7367&userId=&serverSideAds=true
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/rete-oro.png" group-title="Tutti",Rete Oro
+https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://odmsto.com/uploads/tv_image/sm/la-tv-dei-viaggi.png" group-title="Tutti",La Tv dei Viaggi 
+https://bbtv.intvstream.net:3783/stream/play.m3u8
+#EXTINF:-1 tvg-id="elisadirivombrosa" tvg-chno="841" tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/fc/ElisadiRivombrosa.png" group-title="Tutti",Elisa di Rivombrosa 
+https://amg02512-nexodigital-amg02512c4-samsung-it-1164.playouts.now.amagi.tv/playlist/amg02512-nexodigital-eastiseast-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0&ads.ifa_type=%7BIFA_TYPE%7D&ads.url=%7BURL%7
+
 
 
 
