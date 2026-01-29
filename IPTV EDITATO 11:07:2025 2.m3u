@@ -185,13 +185,13 @@ https://distribution.sportitalialive.it/sportitalia/silive24_abr/playlist.m3u8
 https://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="radio bianconera tv" tvg-name="SportItalia Solocalcio HD" tvg-logo="https://m.media-amazon.com/images/I/4115irntd6L.png" group-title="Tutti" tvg-chno="149",RadioBianconeraTV
 https://tmw.fluid.stream/RadioBianconeraTV/livestream/chunklist_w941551245.m3u8?FLID=1https://tmw.fluid.stream/RadioBianconeraTV/livestream/chunklist_w941551245.m3u8?FLID=1
-#EXTINF:-1 tvg-chno=334 tvg-id="juventus-play" tvg-name="Juventus Play" group-title="Tutti",Juventus Play
+#EXTINF:-1 tvg-chno=334 tvg-id="juventus-play" tvg-logo="https://www.juventus.com/images/image/private/t_editorial_landscape_8_desktop_mobile/f_png/v1765909001/dev/elrnza6pnzeplaydfzhq.png" tvg-name="Juventus Play" group-title="Tutti",Juventus Play
 https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
-#EXTINF:-1 tvg-chno=333 tvg-id="inter-24-7-ita" tvg-name="INTER 24/7" group-title="Tutti",INTER 24/7
+#EXTINF:-1 tvg-chno=333 tvg-id="inter-24-7-ita" tvg-name="INTER 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVQxDAP0R5wz-BJNJ8bU83j4rJx_TRYYWgYyCLuZliZly9m6mMjfKvZBx&s=10" group-title="Tutti",INTER 24/7
 https://amg27604-amg27604c2-amgplt0148.playout.now3.amagi.tv/playlist/amg27604-amg27604c2-amgplt0148/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGrn96Pg8S-VADnyr2lmU9CsjDq-2WEiLKZJrqjEyy2fC5doaf7f8iBoo&s=10" group-title="Tutti",Lazio Style Channel
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGrn96Pg8S-VADnyr2lmU9CsjDq-2WEiLKZJrqjEyy2fC5doaf7f8iBoo&s=10" tvg-logo="group-title="Tutti",Lazio Style Channel
 https://livesg.sslazio.hiway.media/restreamer/sslazio_client/gpu-a-c0-7/restreamer/outgest/72343a76-93b8-47f2-80e0-c26afdfe1185/manifest.m3u8
-#EXTINF:-1 tvg-chno=372 tvg-id="tennis-plus" tvg-name="Tennis+" group-title="Tutti",Tennis+
+#EXTINF:-1 tvg-chno=372 tvg-id="tennis-plus" tvg-name="Tennis+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dle-FP_f64xlp6CG9H9spyYaAp-HoOaYkERDxGCy_w&s" group-title="Tutti",Tennis+
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0165/playlist.m3u8
 #EXTINF:-1 tvg-id="63eb82e24ekk3e707008kb73dhhs" tvg-name="FIFA+ Pluto Tv" tvg-logo="https://images.pluto.tv/channels/660bfc4424e1d000085b5f93/colorLogoPNG_1750064819565.png" group-title="Tutti" tvg-chno="146",FIFA+ Pluto Tv
 https://stitcher.pluto.tv/stitch/hls/channel/660bfc4424e1d000085b5f93livestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=340d47b8-53b7-11f0-a82d-be3b20bfaa79&profilesFromStream=true
@@ -508,8 +508,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6581a09edfed030008
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65cb73d33ba51e00084cabad/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=69b7a260-f21e-44be-8f0c-eba979704a2b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=7932755f-f4fb-4937-878f-cf08ce2d7367&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="elisadirivombrosa" tvg-chno="841" tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/fc/ElisadiRivombrosa.png" group-title="Tutti",Elisa di Rivombrosa 
 https://amg02512-nexodigital-amg02512c4-samsung-it-1164.playouts.now.amagi.tv/playlist/amg02512-nexodigital-eastiseast-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0&ads.ifa_type=%7BIFA_TYPE%7D&ads.url=%7BURL%7
-
-
 
 
 
