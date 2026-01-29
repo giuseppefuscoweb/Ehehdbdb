@@ -115,8 +115,8 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forc
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-chno="44" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/frisbee.png" group-title="Tutti",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
-#EXTINF:-1 tvg-id="63eb82e6h24e83e707008habgtxct" tvg-name="Sportitalia SOLOCALCIO" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Tutti" tvg-chno="45",Sportitalia SOLOCALCIO
-https://jmp2.uk/stvp-ITBC4700002CO?x=abcd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1280px-Boing_Plus_logo_2020.svg.png" group-title="Tutti",Boing Plus
+http://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-chno="46" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cartoonito.png" group-title="Tutti",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
@@ -157,8 +157,8 @@ https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="il 61 Netweek" tvg-logo="https://i.imgur.com/1rUZsBv.png"group-title="Tutti" tvg-chno="61" ="Italy",il61
 https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://www.fm-world.it/wp-content/uploads/2025/07/seriea00.png" group-title="Tutti",Radio TV Serie A
-https://live-i-01-seriea-en.akamaized.net/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/hdntl=exp=1769699985~acl=%2f*~data=hdntl~hmac=1b6a7d911a94fef89f2a0a232071949944cfde7b1d8184f9d7ce793989acfc38/child_3.m3u8
+#EXTINF:-1 tvg-id="63eb82e6h24e83e707008habgtxct" tvg-name="Sportitalia SOLOCALCIO" tvg-logo="https://i.imgur.com/hu56Ya5.png" group-title="Tutti" tvg-chno="62",Sportitalia SOLOCALCIO
+https://jmp2.uk/stvp-ITBC4700002CO?x=abcd
 #EXTINF:-1 tvg-id="7gold" tvg-name="7Gold Sport" tvg-logo="https://www.tvdream.net/img/7gold_476x249.jpg" group-title="Tutti" tvg-chno="63",7Gold Sport
 https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8?ref=1
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="64" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/supertennis.png" group-title="Tutti",Supertennis
@@ -450,6 +450,55 @@ https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 https://fl1.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-id="IONPlus.us@East"group-title="Tutti",ION Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
