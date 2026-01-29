@@ -185,10 +185,6 @@ https://distribution.sportitalialive.it/sportitalia/silive24_abr/playlist.m3u8
 https://5e53c5849c731.streamlock.net/TMWRadioTV/smil:TMWRadioTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="radio bianconera tv" tvg-name="SportItalia Solocalcio HD" tvg-logo="https://m.media-amazon.com/images/I/4115irntd6L.png" group-title="Tutti" tvg-chno="149",RadioBianconeraTV
 https://tmw.fluid.stream/RadioBianconeraTV/livestream/chunklist_w941551245.m3u8?FLID=1https://tmw.fluid.stream/RadioBianconeraTV/livestream/chunklist_w941551245.m3u8?FLID=1
-#EXTINF:-1 tvg-id="63eb82e24ekk3e707008kb73dhhs" tvg-name="FIFA+ Pluto Tv" tvg-logo="https://images.pluto.tv/channels/660bfc4424e1d000085b5f93/colorLogoPNG_1750064819565.png" group-title="Tutti" tvg-chno="146",FIFA+ Pluto Tv
-https://stitcher.pluto.tv/stitch/hls/channel/660bfc4424e1d000085b5f93livestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=340d47b8-53b7-11f0-a82d-be3b20bfaa79&profilesFromStream=true
-#EXTINF:-1 tvg-chno=147 tvg-id="fifa-plus-it-new" tvg-name="FIFA+ Rakuten Tv" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/04/fifa-plus-logo.png" group-title="Tutti",FIFA+ Rakuten Tv
-https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=it&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6129&ads.rtv_content_language=ita&ads.rtvid=271861&ads.streaming_id=162dbdd8-f52b-4d81-8733-7a6304e23cd5&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1779
 #EXTINF:-1 tvg-chno=334 tvg-id="juventus-play" tvg-name="Juventus Play" group-title="Tutti",Juventus Play
 https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
 #EXTINF:-1 tvg-chno=333 tvg-id="inter-24-7-ita" tvg-name="INTER 24/7" group-title="Tutti",INTER 24/7
@@ -197,6 +193,11 @@ https://amg27604-amg27604c2-amgplt0148.playout.now3.amagi.tv/playlist/amg27604-a
 https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-chno=372 tvg-id="tennis-plus" tvg-name="Tennis+" group-title="Tutti",Tennis+
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0165/playlist.m3u8
+
+#EXTINF:-1 tvg-id="63eb82e24ekk3e707008kb73dhhs" tvg-name="FIFA+ Pluto Tv" tvg-logo="https://images.pluto.tv/channels/660bfc4424e1d000085b5f93/colorLogoPNG_1750064819565.png" group-title="Tutti" tvg-chno="146",FIFA+ Pluto Tv
+https://stitcher.pluto.tv/stitch/hls/channel/660bfc4424e1d000085b5f93livestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=340d47b8-53b7-11f0-a82d-be3b20bfaa79&profilesFromStream=true
+#EXTINF:-1 tvg-chno=147 tvg-id="fifa-plus-it-new" tvg-name="FIFA+ Rakuten Tv" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/04/fifa-plus-logo.png" group-title="Tutti",FIFA+ Rakuten Tv
+https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=it&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6129&ads.rtv_content_language=ita&ads.rtvid=271861&ads.streaming_id=162dbdd8-f52b-4d81-8733-7a6304e23cd5&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1779
 #EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-chno="158" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png" group-title="Tutti",RADIO KISS KISS TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RaiRadio2.it" tvg-chno="202" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rairadio2visual.png" group-title="Tutti",Rai Radio 2 Visual
@@ -502,6 +503,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6581a09edfed030008
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65cb73d33ba51e00084cabad/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=69b7a260-f21e-44be-8f0c-eba979704a2b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=7932755f-f4fb-4937-878f-cf08ce2d7367&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="elisadirivombrosa" tvg-chno="841" tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/fc/ElisadiRivombrosa.png" group-title="Tutti",Elisa di Rivombrosa 
 https://amg02512-nexodigital-amg02512c4-samsung-it-1164.playouts.now.amagi.tv/playlist/amg02512-nexodigital-eastiseast-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0&ads.ifa_type=%7BIFA_TYPE%7D&ads.url=%7BURL%7
+
 
 
 
