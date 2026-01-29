@@ -158,7 +158,7 @@ https://sportsitalia-samsungitaly.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="il 61 Netweek" tvg-logo="https://i.imgur.com/1rUZsBv.png"group-title="Tutti" tvg-chno="61" ="Italy",il61
 https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-chno="899" tvg-logo="https://www.fm-world.it/wp-content/uploads/2025/07/seriea00.png" group-title="Tutti",Radio TV Serie A
-https://raw.githubusercontent.com/giuseppefuscoweb/F/refs/heads/main/master.m3u8
+https://live-i-01-seriea-en.akamaized.net/out/v1/s-prd/ch-01-prd-s-v2/hls-ch-01-prd-s-hd/hdntl=exp=1769699985~acl=%2f*~data=hdntl~hmac=1b6a7d911a94fef89f2a0a232071949944cfde7b1d8184f9d7ce793989acfc38/child_3.m3u8
 #EXTINF:-1 tvg-id="7gold" tvg-name="7Gold Sport" tvg-logo="https://www.tvdream.net/img/7gold_476x249.jpg" group-title="Tutti" tvg-chno="63",7Gold Sport
 https://dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/playlist.m3u8?ref=1
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="64" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/supertennis.png" group-title="Tutti",Supertennis
@@ -450,6 +450,7 @@ https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 https://fl1.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-id="IONPlus.us@East"group-title="Tutti",ION Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+
 
 
 
