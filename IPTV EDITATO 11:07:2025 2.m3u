@@ -263,7 +263,7 @@ https://icy.unitedradio.it/rmcweb001
 https://icy.unitedradio.it/101Legend.aac
 #EXTINF:-1 tvg-id="660bfc4424e1d000dhdhdbe85b5fhdhsgs" tvg-name="Radio 105 Hits" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/HabSqSfyE4.png" group-title="Tutti" tvg-chno="985", Radio 105 Hits
 https://icy.unitedradio.it/105Hits.mp3
-#EXTINF:-1 tvg-id="660bfc4424e1d000dhdhdbe85b5axcgs" tvg-name="New Hits Radio" tvg-logo="https://newhits.radio/wp-content/uploads/2021/03/cropped-newhits.radio_logo512.png" group-title="Tutti" tvg-chno="987", New Hits Radio
+#EXTINF:-1 tvg-id="660bfc4424e1d000dhdhdbe85b5axcgs" tvg-name="New Hits Radio" tvg-logo="https://www.getmeradio.com/stations/newhitsradio-2435/logos/1024x500.png" group-title="Tutti" tvg-chno="987", New Hits Radio
 https://newhitsradio.streamingmedia.it/play
 #EXTINF:-1 tvg-name="Radio Radicale" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdmuKn17X4OnC2ioCPktZ7xlk6QkjPva2o8A&s" group-title="Tutti" tvg-chno="919", WSUL Radio
 https://ice66.securenetsystems.net/WSUL
@@ -508,6 +508,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6581a09edfed030008
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65cb73d33ba51e00084cabad/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=69b7a260-f21e-44be-8f0c-eba979704a2b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=7932755f-f4fb-4937-878f-cf08ce2d7367&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="elisadirivombrosa" tvg-chno="841" tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/fc/ElisadiRivombrosa.png" group-title="Tutti",Elisa di Rivombrosa 
 https://amg02512-nexodigital-amg02512c4-samsung-it-1164.playouts.now.amagi.tv/playlist/amg02512-nexodigital-eastiseast-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0&ads.ifa_type=%7BIFA_TYPE%7D&ads.url=%7BURL%7
+
 
 
 
