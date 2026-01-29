@@ -189,11 +189,11 @@ https://tmw.fluid.stream/RadioBianconeraTV/livestream/chunklist_w941551245.m3u8?
 https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
 #EXTINF:-1 tvg-chno=333 tvg-id="inter-24-7-ita" tvg-name="INTER 24/7" group-title="Tutti",INTER 24/7
 https://amg27604-amg27604c2-amgplt0148.playout.now3.amagi.tv/playlist/amg27604-amg27604c2-amgplt0148/playlist.m3u8
-#EXTINF:-1 tvg-chno=327 tvg-id="top-barca-eng" tvg-name="TOP Barça" group-title="Tutti",TOP Barça
-https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+
 #EXTINF:-1 tvg-chno=372 tvg-id="tennis-plus" tvg-name="Tennis+" group-title="Tutti",Tennis+
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0165/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGrn96Pg8S-VADnyr2lmU9CsjDq-2WEiLKZJrqjEyy2fC5doaf7f8iBoo&s=10" group-title="Tutti",Lazio Style Channel
+https://livesg.sslazio.hiway.media/restreamer/sslazio_client/gpu-a-c0-7/restreamer/outgest/72343a76-93b8-47f2-80e0-c26afdfe1185/manifest.m3u8
 #EXTINF:-1 tvg-id="63eb82e24ekk3e707008kb73dhhs" tvg-name="FIFA+ Pluto Tv" tvg-logo="https://images.pluto.tv/channels/660bfc4424e1d000085b5f93/colorLogoPNG_1750064819565.png" group-title="Tutti" tvg-chno="146",FIFA+ Pluto Tv
 https://stitcher.pluto.tv/stitch/hls/channel/660bfc4424e1d000085b5f93livestitch/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=340d47b8-53b7-11f0-a82d-be3b20bfaa79&profilesFromStream=true
 #EXTINF:-1 tvg-chno=147 tvg-id="fifa-plus-it-new" tvg-name="FIFA+ Rakuten Tv" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/04/fifa-plus-logo.png" group-title="Tutti",FIFA+ Rakuten Tv
@@ -457,8 +457,8 @@ https://jmp2.uk/stvp-IT3400003D6
 https://amg22086-ixmedia-amg22086c1-lg-it-8336.playouts.now.amagi.tv/playlist/amg22086-ixmedia-3bmeteo-lgit/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]
 #EXTINF:-1 tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/logo-2-1/d134e70d-cb58-431f-9ab2-be8ba4b85e10-width400-height200.png" group-title="Tutti",Euronews IN DIRETTA
 https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiM2IwOGU3ZjUtZmVlYi00YjY1LWFlMzAtNWQxNGNjYjk0MTVkIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjoyfQ==/25674/euronews-it.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=1&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=it&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rating=12&ads.rtv_channel_name=euronews-live-ita_it&ads.rtv_content_id=6570&ads.rtv_language=it&ads.viewsize=&channel_id=6570&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGrn96Pg8S-VADnyr2lmU9CsjDq-2WEiLKZJrqjEyy2fC5doaf7f8iBoo&s=10" group-title="Tutti",Lazio Style Channel
-https://livesg.sslazio.hiway.media/restreamer/sslazio_client/gpu-a-c0-7/restreamer/outgest/72343a76-93b8-47f2-80e0-c26afdfe1185/manifest.m3u8
+#EXTINF:-1 tvg-chno=327 tvg-id="top-barca-eng" tvg-name="TOP Barça" group-title="Tutti",TOP Barça
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-name="Rete 8" tvg-logo="https://i.imgur.com/bGsjPRh.png" group-title="Tutti",Rete 8
 https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
 #EXTINF:-1 tvg-name="Rete 8 Sport" tvg-logo="https://i.imgur.com/uUAjWlF.png" group-title="Tutti",Rete 8 Sport
@@ -505,6 +505,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6581a09edfed030008
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65cb73d33ba51e00084cabad/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=69b7a260-f21e-44be-8f0c-eba979704a2b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=7932755f-f4fb-4937-878f-cf08ce2d7367&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="elisadirivombrosa" tvg-chno="841" tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/fc/ElisadiRivombrosa.png" group-title="Tutti",Elisa di Rivombrosa 
 https://amg02512-nexodigital-amg02512c4-samsung-it-1164.playouts.now.amagi.tv/playlist/amg02512-nexodigital-eastiseast-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0&ads.ifa_type=%7BIFA_TYPE%7D&ads.url=%7BURL%7
+
 
 
 
