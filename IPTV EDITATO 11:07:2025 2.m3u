@@ -189,7 +189,8 @@ https://tmw.fluid.stream/RadioBianconeraTV/livestream/chunklist_w941551245.m3u8?
 https://amg27604-amg27604c3-amgplt0148.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg27604-amg27604c3-amgplt0148/playlist.m3u8
 #EXTINF:-1 tvg-chno=333 tvg-id="inter-24-7-ita" tvg-name="INTER 24/7" group-title="Tutti",INTER 24/7
 https://amg27604-amg27604c2-amgplt0148.playout.now3.amagi.tv/playlist/amg27604-amg27604c2-amgplt0148/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGrn96Pg8S-VADnyr2lmU9CsjDq-2WEiLKZJrqjEyy2fC5doaf7f8iBoo&s=10" group-title="Tutti",Lazio Style Channel
+https://livesg.sslazio.hiway.media/restreamer/sslazio_client/gpu-a-c0-7/restreamer/outgest/72343a76-93b8-47f2-80e0-c26afdfe1185/manifest.m3u8
 #EXTINF:-1 tvg-chno=372 tvg-id="tennis-plus" tvg-name="Tennis+" group-title="Tutti",Tennis+
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0165/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGrn96Pg8S-VADnyr2lmU9CsjDq-2WEiLKZJrqjEyy2fC5doaf7f8iBoo&s=10" group-title="Tutti",Lazio Style Channel
@@ -268,6 +269,8 @@ https://icy.unitedradio.it/105Hits.mp3
 https://newhitsradio.streamingmedia.it/play
 #EXTINF:-1 tvg-name="Radio Radicale" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdmuKn17X4OnC2ioCPktZ7xlk6QkjPva2o8A&s" group-title="Tutti" tvg-chno="919", WSUL Radio
 https://ice66.securenetsystems.net/WSUL
+#EXTINF:-1 tvg-id="BBC World service" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/BBC_World_Service_2022.svg/1280px-BBC_World_Service_2022.svg.png" group-title="Tutti",BBC World service:
+https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_africa
 #EXTINF:-1 tvg-id="63eb82e6h24e83e707008abgtxckhfd" tvg-name="Rai Radio1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rai_Radio_1_-_Logo_2017.svg/2560px-Rai_Radio_1_-_Logo_2017.svg.png" group-title="Tutti" tvg-chno="920",Rai Radio1
 https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S18493106/rCMKqdMFKPBB/icecast
 #EXTINF:-1 tvg-name="Giornale Radio Tv" tvg-logo="https://i.imgur.com/TMtvCLL.jpg" group-title="Tutti",Giornale Radio Tv
@@ -287,7 +290,9 @@ https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-id="63eb82e6h24e83e707008abgtxcuwc" tvg-name="Times Square Earthcam" tvg-logo="https://ftp.fau.de/xbmc/addons/leia/plugin.video.earthcam/resources/images/icon.png" group-title="Tutti" tvg-chno="53",Times Square Earthcam
 https://videos3.earthcam.com/fecnetwork/9974.flv/chunklist_w1802587375.m3u8
-#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png"group-title="Tutti",Fox News Channel
+#EXTINF:-1 tvg-id="FoxNewsChannel"tvg-logo="https://logos-world.net/wp-content/uploads/2020/11/Fox-News-Channel-Logo.png" group-title="Tutti",Fox News Channel SD
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 tvg-id="FoxNewsChannel.us@SD"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png"group-title="Tutti",Fox News Channel HD
 #EXTVLCOPT:http-referrer=https://www.newslive.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8
@@ -505,6 +510,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6581a09edfed030008
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65cb73d33ba51e00084cabad/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=69b7a260-f21e-44be-8f0c-eba979704a2b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=7932755f-f4fb-4937-878f-cf08ce2d7367&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="elisadirivombrosa" tvg-chno="841" tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/fc/ElisadiRivombrosa.png" group-title="Tutti",Elisa di Rivombrosa 
 https://amg02512-nexodigital-amg02512c4-samsung-it-1164.playouts.now.amagi.tv/playlist/amg02512-nexodigital-eastiseast-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0&ads.ifa_type=%7BIFA_TYPE%7D&ads.url=%7BURL%7
+
 
 
 
