@@ -259,7 +259,7 @@ https://ice07.fluidstream.net/KKItalia.mp3
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay30songs/radiodeejay30songs/master_ma.m3u8
 #EXTINF:-1 tvg-id="660bfc4424e1d000dhdhdbe85bkghf93heh" tvg-name="RMC Hits" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStdMSOIc3Vd9EO4sP1Wl1SIFoz5eriA5WFQA&s" group-title="Tutti" tvg-chno="980",RMC Hits
 https://icy.unitedradio.it/rmcweb001
-#EXTINF:-1 tvg-id="660bfc4424e1d000dhdhdbe85b5gfdaxcgs" tvg-name="R101 Enjoy The Music" tvg-logo="https://www.r101.it/resizer/300/300/true/enjoy_the_music-1605811037866.jpg--.jpg" group-title="Tutti" tvg-chno="988",R101 Enjoy The Music
+#EXTINF:-1 tvg-id="660bfc4424e1d000dhdhdbe85b5gfdaxcgs" tvg-name="R101 Enjoy The Music" tvg-logo="https://cdn-radiotime-logos.tunein.com/s92028g.png" group-title="Tutti" tvg-chno="988",R101 Enjoy The Music
 https://icy.unitedradio.it/101Legend.aac
 #EXTINF:-1 tvg-id="660bfc4424e1d000dhdhdbe85b5fhdhsgs" tvg-name="Radio 105 Hits" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/HabSqSfyE4.png" group-title="Tutti" tvg-chno="985", Radio 105 Hits
 https://icy.unitedradio.it/105Hits.mp3
@@ -508,6 +508,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6581a09edfed030008
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65cb73d33ba51e00084cabad/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=69b7a260-f21e-44be-8f0c-eba979704a2b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=7932755f-f4fb-4937-878f-cf08ce2d7367&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="elisadirivombrosa" tvg-chno="841" tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/fc/ElisadiRivombrosa.png" group-title="Tutti",Elisa di Rivombrosa 
 https://amg02512-nexodigital-amg02512c4-samsung-it-1164.playouts.now.amagi.tv/playlist/amg02512-nexodigital-eastiseast-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0&ads.ifa_type=%7BIFA_TYPE%7D&ads.url=%7BURL%7
+
 
 
 
