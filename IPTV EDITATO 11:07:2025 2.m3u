@@ -112,7 +112,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forc
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=rainet/4.0.5
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-chno="44" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/frisbee.png" group-title="Tutti",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
-#EXTINF:-1 tvg-id="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1280px-Boing_Plus_logo_2020.svg.png" group-title="Tutti",Boing Plus
+#EXTINF:-1 tvg-id="Boing.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Boing_Plus_logo_2020.svg/1280px-Boing_Plus_logo_2020.svg.png" group-title="Tutti",Boing Plus
 http://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-id="Cartoonito.it" tvg-chno="46" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/cartoonito.png" group-title="Tutti",Cartoonito
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -515,6 +515,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6581a09edfed030008
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65cb73d33ba51e00084cabad/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=69b7a260-f21e-44be-8f0c-eba979704a2b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=7932755f-f4fb-4937-878f-cf08ce2d7367&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="elisadirivombrosa" tvg-chno="841" tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/fc/ElisadiRivombrosa.png" group-title="Tutti",Elisa di Rivombrosa 
 https://amg02512-nexodigital-amg02512c4-samsung-it-1164.playouts.now.amagi.tv/playlist/amg02512-nexodigital-eastiseast-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0&ads.ifa_type=%7BIFA_TYPE%7D&ads.url=%7BURL%7
+
 
 
 
