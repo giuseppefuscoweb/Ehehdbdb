@@ -431,17 +431,17 @@ https://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 https://fl1.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetwork.us@East"group-title="Tutti",Paramount Network
 https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="Fuse.us@SD",Fuse 
+#EXTINF:-1 tvg-id="Fuse.us@SD"group-title="Tutti",Fuse 
 https://fl1.moveonjoy.com/FUSE/index.m3u8
-#EXTINF:-1 tvg-id="CBS CHICAGO.us@SD",CBS Chicago
+#EXTINF:-1 tvg-id="CBS CHICAGO.us@SD"group-title="Tutti",CBS Chicago
 https://fl1.moveonjoy.com/IL_Chicago_CBS/index.m3u8
-#EXTINF:-1 tvg-id="WMAQDT1.us@SD",NBC Chicago
+#EXTINF:-1 tvg-id="WMAQDT1.us@SD"group-title="Tutti",NBC Chicago
 https://fl1.moveonjoy.com/IL_Chicago_NBC/index.m3u8
-#EXTINF:-1 tvg-id="ABC CHICAGO.us@SD",ABC Chicago
+#EXTINF:-1 tvg-id="ABC CHICAGO.us@SD"group-title="Tutti",ABC Chicago
 https://fl.moveonjoy.com/IL_CHICAGO_ABC/index.m3u8
-#EXTINF:-1 tvg-id="WFLDDT1.us@SD",FOX Chicago
+#EXTINF:-1 tvg-id="WFLDDT1.us@SD"group-title="Tutti",FOX Chicago
 https://fl1.moveonjoy.com/IL_Chicago_FOX/index.m3u8
-#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD",Fox Business Network
+#EXTINF:-1 tvg-id="FoxBusinessNetwork.us@SD"group-title="Tutti",Fox Business Network
 https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8
 #EXTINF:-1 tvg-id="FoxSoul.us@SD"group-title="Tutti",Fox Soul
 https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
@@ -521,6 +521,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6581a09edfed030008
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/65cb73d33ba51e00084cabad/master.m3u8?advertisingId=&appName=web&appVersion=9.1.2&deviceDNT=0&deviceId=69b7a260-f21e-44be-8f0c-eba979704a2b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=126.0.0&sid=7932755f-f4fb-4937-878f-cf08ce2d7367&userId=&serverSideAds=true
 #EXTINF:-1 tvg-id="elisadirivombrosa" tvg-chno="841" tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/fc/ElisadiRivombrosa.png" group-title="Tutti",Elisa di Rivombrosa 
 https://amg02512-nexodigital-amg02512c4-samsung-it-1164.playouts.now.amagi.tv/playlist/amg02512-nexodigital-eastiseast-samsungit/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0&ads.ifa_type=%7BIFA_TYPE%7D&ads.url=%7BURL%7
+
 
 
 
