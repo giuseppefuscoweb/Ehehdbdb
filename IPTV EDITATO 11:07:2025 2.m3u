@@ -363,11 +363,11 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fff49cfb5cd4f0007c2b0dc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5103-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c438c5e4-4d4e-4037-8b44-c6782c44b796
 #EXTINF:-1 tvg-id="WeatherNationNewYork.us" tvg-logo="https://i.imgur.com/YFFSEd9.png" group-title="Tutti",WeatherNation New York
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61e71d5931746f0007ca3e68/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2d1029-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7473f3ad-8ef5-46e9-98b7-8a551289db64
-#EXTINF:-1 tvg-id="NewsmaxTV.us@SD"group-title="Tutti",Newsmax TV 
+#EXTINF:-1 tvg-id="NewsmaxTV.us@SD" tvg-logo="https://logowik.com/content/uploads/images/newsmax5379.logowik.com.webp" group-title="Tutti",Newsmax TV 
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 channel-id="IT3400003D6" tvg-id="IT3400003D6" tvg-chno="4559" tvg-name="Sky News International" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3400003D6_20250819T032318SQUARE.png" group-title="Tutti",Sky News International
 https://jmp2.uk/stvp-IT3400003D6
-#EXTINF:-1 tvg-id="WUSATV.us" tvg-group="Tutti" tvg-language="English" tvg-logo="https://i.imgur.com/Ekt1an0.png" group-title="Tutti",CBS 9 Washington DC WUSA
+#EXTINF:-1 tvg-id="WUSATV.us" tvg-group="Tutti" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/uP0jR2AprznruwvTAP4s3rJFwEsBLHj6_622CpGbMg1xh-vgPb4udgw8Nj7LLFBgTw" group-title="Tutti",CBS 9 Washington DC WUSA
 https://livevideo01.wusa9.com/hls/live/2015498/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="WGRZTV.us" tvg-group="Tutti" tvg-language="English" tvg-logo="https://i.imgur.com/m4MZTtj.jpg" group-title="Tutti",NBC 2 Buffalo NY WGRZ
 https://livevideo01.wgrz.com/hls/live/2016286/newscasts/live.m3u8
@@ -377,9 +377,9 @@ https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
 https://livevideo01.fox61.com/hls/live/2011658/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="WGN CHICAGO" tvg-logo="https://www.greencitymarket.org/content/images/news/wgnchicago-logoresized-bcpng.png" group-title="Tutti",The CW WGN Chicago IL
 http://23.237.104.106:8080/USA_WGN/index.m3u8
-#EXTINF:-1 tvg-id="KCWXTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/A43Njed.png" group-title="Tutti",myTV San Antonio TX KCWX-TV
+#EXTINF:-1 tvg-id="KCWXTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="Tutti",myTV San Antonio TX KCWX-TV
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="IONPlus.us@East"group-title="Tutti",ION Plus
+#EXTINF:-1 tvg-id="IONPlus.us@East"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="Tutti",ION Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 #EXTINF:-1 tvg-id="rai_italia_USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1280px-Rai_Italia_-_Logo_2017.svg.png" group-title="Tutti",Rai Italia USA
 https://ilglobotv-live-backup.akamaized.net/RAIItaliaUSA67/Live.m3u8
@@ -403,15 +403,15 @@ https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
 https://ilglobotv-live-backup.akamaized.net/RAINews66/Live.m3u8
 #EXTINF:-1 tvg-id="RaiPremium_usa" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/4c/Rai_World_Premium_%282017%29.png/revision/latest/scale-to-width-down/250?cb=20170715113444" group-title="Tutti",Rai World Premium
 https://ilglobotv-live-backup.akamaized.net/RaiPremium68/Live.m3u8
-#EXTINF:-1 tvg-id="RSILA1" group-title="Tutti",RSI La1
+#EXTINF:-1 tvg-id="RSILA1" tvg-logo="https://logowik.com/content/uploads/images/rsi-la-1-20125457.logowik.com.webp" group-title="Tutti",RSI La1
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
-#EXTINF:-1 tvg-id="RSILA2" group-title="Tutti",RSI La2
+#EXTINF:-1 tvg-id="RSILA2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1280px-RSI_La_2_2012.svg.png" group-title="Tutti",RSI La2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 #EXTINF:-1 tvg-id="espn usa:(" tvg-name="Espn" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Tutti" tvg-chno="152", ESPN
 http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
 #EXTINF:-1 tvg-id="fox sports" tvg-chno="101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/2560px-2015_Fox_Sports_1_logo.svg.png" group-title="Tutti", Fox Sports 1
 https://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="CBS Sports HQ.us" tvg-group="Tutti" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png"group-title="Tutti", CBS Sports HQ
+#EXTINF:-1 tvg-id="CBS Sports HQ.us" tvg-logo="https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf" tvg-group="Tutti" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png"group-title="Tutti", CBS Sports HQ
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=890f9786-922b-4308-bef7-b8a6a62f256b
 #EXTINF:-1 tvg-id="cbs sports golazo network" tvg-chno="68" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/09/18/image_80849179721695046851257-ygud8tyd.png" group-title="Tutti", CBS Sports Golazo Network
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=0&appVersion=0&clientModelNumber=1.0.0&country=IT&deviceDNT=false&deviceId=0&deviceLat=45.4640&deviceLon=9.1919&serverSideAds=false&marketingRegion=IT&masterJWTPassthrough=true&includeExtendedEvents=true&embedPartner=samsung-tvplus
@@ -535,6 +535,7 @@ https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
 https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us@East"group-title="Tutti",National Geographic
 https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+
 
 
 
