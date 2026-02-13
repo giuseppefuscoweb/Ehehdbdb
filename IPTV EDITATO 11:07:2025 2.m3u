@@ -435,8 +435,8 @@ https://fl1.moveonjoy.com/ABC/index.m3u8
 https://fl61.moveonjoy.com/NY_New_York_FOX/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="The CW WGN CHICAGO" tvg-logo="https://www.greencitymarket.org/content/images/news/wgnchicago-logoresized-bcpng.png" group-title="Tutti",The CW WGN Chicago
 https://fl7.moveonjoy.com/WGN/index.m3u8
-#EXTINF:-1 tvg-id="KCWX MYTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="Tutti", myTV San Antonio KCWX-TV
-http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KCWXMYTV.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="Tutti", myTV San Antonio KCWX-TV
+http://65.36.6.216:1935/live//kcwx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ION usa East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png" group-title="Tutti",ION TV
 https://fl1.moveonjoy.com/ION_TV/index.m3u8
 #EXTINF:-1 tvg-id="cbs sports network" tvg-chno="62" tvg-logo="https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf" group-title="Tutti",CBS Sports Network
@@ -535,6 +535,7 @@ https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
 https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us@East"group-title="Tutti",National Geographic
 https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+
 
 
 
