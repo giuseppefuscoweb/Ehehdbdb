@@ -367,7 +367,7 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 channel-id="IT3400003D6" tvg-id="IT3400003D6" tvg-chno="4559" tvg-name="Sky News International" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IT3400003D6_20250819T032318SQUARE.png" group-title="Tutti",Sky News International
 https://jmp2.uk/stvp-IT3400003D6
-#EXTINF:-1 tvg-id="WUSATV.us" tvg-group="Tutti" tvg-language="English" tvg-logo="https://i.imgur.com/Ekt1an0.png" group-title="United States",CBS 9 Washington DC WUSA
+#EXTINF:-1 tvg-id="WUSATV.us" tvg-group="Tutti" tvg-language="English" tvg-logo="https://i.imgur.com/Ekt1an0.png" group-title="Tutti",CBS 9 Washington DC WUSA
 https://livevideo01.wusa9.com/hls/live/2015498/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="WGRZTV.us" tvg-group="Tutti" tvg-language="English" tvg-logo="https://i.imgur.com/m4MZTtj.jpg" group-title="Tutti",NBC 2 Buffalo NY WGRZ
 https://livevideo01.wgrz.com/hls/live/2016286/newscasts/live.m3u8
@@ -535,6 +535,7 @@ https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
 https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us@East"group-title="Tutti",National Geographic
 https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+
 
 
 
