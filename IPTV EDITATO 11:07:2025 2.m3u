@@ -411,7 +411,7 @@ https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
 #EXTINF:-1 tvg-id="fox sports" tvg-chno="101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/2560px-2015_Fox_Sports_1_logo.svg.png" group-title="Tutti", Fox Sports 1
 https://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="CBS Sports HQ.us" tvg-logo="https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf" tvg-group="Tutti" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png"group-title="Tutti", CBS Sports HQ
+#EXTINF:-1 tvg-id="CBSSportsHQ.us" tvg-logo="https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf" tvg-language="English" group-title="Tutti", CBS Sports HQ
 https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=890f9786-922b-4308-bef7-b8a6a62f256b
 #EXTINF:-1 tvg-id="cbs sports golazo network" tvg-chno="68" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/09/18/image_80849179721695046851257-ygud8tyd.png" group-title="Tutti", CBS Sports Golazo Network
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=0&appVersion=0&clientModelNumber=1.0.0&country=IT&deviceDNT=false&deviceId=0&deviceLat=45.4640&deviceLon=9.1919&serverSideAds=false&marketingRegion=IT&masterJWTPassthrough=true&includeExtendedEvents=true&embedPartner=samsung-tvplus
@@ -535,6 +535,7 @@ https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
 https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us@East"group-title="Tutti",National Geographic
 https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+
 
 
 
