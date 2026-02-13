@@ -391,6 +391,14 @@ https://amg22086-ixmedia-amg22086c1-lg-it-8336.playouts.now.amagi.tv/playlist/am
 https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiM2IwOGU3ZjUtZmVlYi00YjY1LWFlMzAtNWQxNGNjYjk0MTVkIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjoyfQ==/25674/euronews-it.m3u8?ads.app_bundle=&ads.app_name=LG%20Channel%20Plus&ads.app_store_url=&ads.app_version=&ads.brand_name=&ads.content_livestream=1&ads.device_lmt=&ads.device_model=&ads.did=&ads.fck=&ads.gdpr_consent=&ads.givn=&ads.ifa_type=&ads.market=it&ads.platform=lg_channelplus&ads.pod_type=playerpage_midroll&ads.rating=12&ads.rtv_channel_name=euronews-live-ita_it&ads.rtv_content_id=6570&ads.rtv_language=it&ads.viewsize=&channel_id=6570&disable_subtitles=true&publishing_platform_id=2&tenant_identifier=rtv
 #EXTINF:-1 tvg-id="espn usa:(" tvg-name="Espn" tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Tutti" tvg-chno="152", ESPN
 http://1tv41.icu:8080/live/43761449506/smallwood/14197.m3u8
+#EXTINF:-1 tvg-id="fox sports" tvg-chno="101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/2560px-2015_Fox_Sports_1_logo.svg.png" group-title="Tutti", Fox Sports 1
+https://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="CBS Sports HQ.us" tvg-group="Tutti" tvg-language="English" tvg-logo="http://images.pluto.tv/channels/5a74b8e1e22a61737979c6bf/colorLogoPNG.png", CBS Sports HQ
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?appName=web&appVersion=9.19.0&deviceDNT=0&deviceId=affbdbfa-5fa3-48af-8369-57c005daef42&deviceMake=firefox&deviceModel=web&deviceType=web&deviceVersion=147.0.0&serverSideAds=false&sid=890f9786-922b-4308-bef7-b8a6a62f256b
+#EXTINF:-1 tvg-id="cbs sports golazo network" tvg-chno="68" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/09/18/image_80849179721695046851257-ygud8tyd.png" group-title="Tutti", CBS Sports Golazo Network
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=0&appVersion=0&clientModelNumber=1.0.0&country=IT&deviceDNT=false&deviceId=0&deviceLat=45.4640&deviceLon=9.1919&serverSideAds=false&marketingRegion=IT&masterJWTPassthrough=true&includeExtendedEvents=true&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="NFLCHANNEL.us@SD"group-title="Tutti",NFL Channel
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
 #EXTINF:-1 tvg-id="CBS New York NY WCBS-DT1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/CBS_2.svg/512px-CBS_2.svg.png" group-title="Tutti",CBS New York NY WCBS-DT1
 https://fl1.moveonjoy.com/CBS/index.m3u8
 #EXTINF:-1 tvg-id="WNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/512px-WNBC_4_NY.svg.png" group-title="Tutti",NBC New York NY WNBC-DT1
@@ -413,18 +421,12 @@ https://content.uplynk.com/channel/ext/72750b711f704e4a94b5cfe6dc99f5e1/wabc_24x
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65790c72cbd0d60008fac4d0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5100-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1590d16f-7216-4de9-80e8-cd9f77d26da8
 #EXTINF:-1 tvg-id="fox5 new york local 1.us" tvg-chno="831" tvg-logo="https://m.media-amazon.com/images/I/71Y4vKBnx7L.png" group-title="Tutti",Fox Local New York
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+#EXTINF:-1 tvg-id="cbs sports network" tvg-chno="62" tvg-logo="https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf" group-title="Tutti",CBS Sports Network
+https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ESPNU.us@SD"group-title="Tutti" ,ESPN U 
 https://fl1.moveonjoy.com/ESPN_U/index.m3u8
 #EXTINF:-1 tvg-id="ESPNews.us@SD"group-title="Tutti",ESPNews
 https://fl1.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 tvg-id="fox sports" tvg-chno="101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/2560px-2015_Fox_Sports_1_logo.svg.png" group-title="Tutti", Fox Sports 1
-http://fl1.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 tvg-id="cbs sports network" tvg-chno="62" tvg-logo="https://play-lh.googleusercontent.com/MUwcGhbUvGSPUB6Eg6JhCCdUP_DnAks9bkwEBAnfafDK2h2ivxurD4vvviTBSjzCSBdf" group-title="Tutti",CBS Sports Network
-https://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 tvg-id="cbs sports golazo network" tvg-chno="68" tvg-logo="https://public-assets-pressexpress.s3.amazonaws.com/assets/pages/images/2023/09/18/image_80849179721695046851257-ygud8tyd.png" group-title="Tutti", CBS Sports Golazo Network
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63a0e33a45264d000850ed7e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=0&appVersion=0&clientModelNumber=1.0.0&country=IT&deviceDNT=false&deviceId=0&deviceLat=45.4640&deviceLon=9.1919&serverSideAds=false&marketingRegion=IT&masterJWTPassthrough=true&includeExtendedEvents=true&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="NFLCHANNEL.us@SD"group-title="Tutti",NFL Channel
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5105-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6477ef85-3680-442c-94d8-27197903b1f6
 #EXTINF:-1 tvg-id="NBATV.us@SD"group-title="Tutti",NBA TV
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
 #EXTINF:-1 tvg-id="MLBNetwork.us@SD"group-title="Tutti",MLB Network
@@ -517,6 +519,7 @@ https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 https://fl1.moveonjoy.com/National_Geographic/index.m3u8
 #EXTINF:-1 tvg-id="IONPlus.us@East"group-title="Tutti",ION Plus
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+
 
 
 
