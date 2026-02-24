@@ -237,6 +237,7 @@ https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Vintage Radio Tv" tvg-logo="https://i.imgur.com/n3LtBNT.jpg" group-title="Tutti" tvg-chno="909",Vintage Radio Tv
 https://5f22d76e220e1.streamlock.net/vintageradiotv/vintageradiotv/playlist.m3u8
 #EXTINF:-1 tvg-id="rai_4k_italia" tvg-chno="844" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4k.png" group-title="Tutti",Rai 4k 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-id="63eb82e6h24e83e707008ab7jhf" tvg-name="Radio Kiss Kiss Italia Tv" tvg-logo="https://play-lh.googleusercontent.com/hIiNXzStOpM7jeSBuhiWOm-9sU2ZI-1zH36-xBf0CkxIVVWDanwcaaHjReWfARDmMmt9" group-title="Tutti" tvg-chno="910",Radio Kiss Kiss Italia Tv
 https://kk.fluid.stream/KKTV01/livestream/playlist.m3u8?FLID=1
@@ -534,6 +535,7 @@ https://fl1.moveonjoy.com/MTV_CLASSIC/index.m3u8
 https://fl1.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.us@East"group-title="Tutti",National Geographic
 https://fl1.moveonjoy.com/National_Geographic/index.m3u8
+
 
 
 
