@@ -192,7 +192,7 @@ https://amg27604-amg27604c2-amgplt0148.playout.now3.amagi.tv/playlist/amg27604-a
 https://livesg.sslazio.hiway.media/restreamer/sslazio_client/gpu-a-c0-7/restreamer/outgest/72343a76-93b8-47f2-80e0-c26afdfe1185/manifest.m3u8
 #EXTINF:-1 tvg-chno=372 tvg-id="tennis-plus" tvg-name="Tennis+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dle-FP_f64xlp6CG9H9spyYaAp-HoOaYkERDxGCy_w&s" group-title="Tutti",Tennis+
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0165/playlist.m3u8
-#EXTINF:-1 tvg-chno=147 tvg-id="fifa-plus-it-new" tvg-name="FIFA+ Italia" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/04/fifa-plus-logo.png" group-title="Tutti",FIFA+ Rakuten Tv
+#EXTINF:-1 tvg-chno=147 tvg-id="fifa-plus-it-new" tvg-name="FIFA+ Italia" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/04/fifa-plus-logo.png" group-title="Tutti",FIFA+ Italia
 https://5d95f7d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWl0X0ZJRkFQbHVzSXRhbGlhbl9ITFM/playlist.m3u8?ads.amznbrmid=&ads.amznregion=&ads.amznslots=&ads.app_bundle=com.rakuten.tv&ads.app_store_url=rakuten.tv&ads.app_version=&ads.brand_name=&ads.content_classification=0&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gam_correlator=&ads.gdpr_consent=&ads.market=it&ads.os_language=&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=6129&ads.rtv_content_language=ita&ads.rtvid=271861&ads.streaming_id=162dbdd8-f52b-4d81-8733-7a6304e23cd5&ads.tivo_devcountry=&ads.tivo_devmakedate=&ads.tivo_mvpd=&ads.tivo_platform=&ads.tivo_usid=&ads.tivo_uxloc=&ads.user_type=visitor&ads.wurl_channel=1779
 #EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-chno="158" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiokisskisstv.png" group-title="Tutti",RADIO KISS KISS TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
@@ -405,6 +405,7 @@ https://ilglobotv-live-backup.akamaized.net/RaiPremium68/Live.m3u8
 https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
 #EXTINF:-1 tvg-id="RSILA2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1280px-RSI_La_2_2012.svg.png" group-title="Tutti",RSI La2
 https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
+
 
 
 
