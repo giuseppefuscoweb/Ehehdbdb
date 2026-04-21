@@ -189,7 +189,7 @@ https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
 #EXTINF:-1 tvg-chno=333 tvg-id="inter-24-7-ita" tvg-name="INTER 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkVQxDAP0R5wz-BJNJ8bU83j4rJx_TRYYWgYyCLuZliZly9m6mMjfKvZBx&s=10" group-title="Tutti",INTER 24/7
 https://amg27604-amg27604c2-amgplt0148.playout.now3.amagi.tv/playlist/amg27604-amg27604c2-amgplt0148/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGrn96Pg8S-VADnyr2lmU9CsjDq-2WEiLKZJrqjEyy2fC5doaf7f8iBoo&s=10" "group-title="Tutti",Lazio Style Channel
-https://livesg.sslazio.hiway.media/restreamer/sslazio_client/gpu-a-c0-7/restreamer/outgest/72343a76-93b8-47f2-80e0-c26afdfe1185/manifest.m3u8
+https://distribution.sportitalialive.it/origin/laziostyle_abr/playlist.m3u8
 #EXTINF:-1 tvg-chno=372 tvg-id="tennis-plus" tvg-name="Tennis+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0dle-FP_f64xlp6CG9H9spyYaAp-HoOaYkERDxGCy_w&s" group-title="Tutti",Tennis+
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist/amg01935-amg01935c1-amgplt0165/playlist.m3u8
 #EXTINF:-1 tvg-chno=147 tvg-id="fifa-plus-it-new" tvg-name="FIFA+ Italia" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2022/04/fifa-plus-logo.png" group-title="Tutti",FIFA+ Italia
