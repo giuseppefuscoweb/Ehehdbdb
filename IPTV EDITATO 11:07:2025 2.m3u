@@ -330,7 +330,7 @@ https://stream.livenewsplay.com:9555/hls/foxnewssd/index.m3u8?[object%20Object]
 #EXTINF:-1 tvg-id="cnn.usa" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/3840px-CNN_International_logo.svg.png" group-title="Tutti" tvg-chno="928", CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-name="msnow_USA" tvg-logo="https://yt3.googleusercontent.com/k6bDbWwngaO6KSyL1lxkmFIbW6ncdoLKITtcqTumbD5wBazaJltUEkJdrfHjuMtDrHltYaIbLd0=s900-c-k-c0x00ffffff-no-rj" tvg-id="Vatican-Media-Live"group-title="Tutti" tvg-chno="926",MS Now
-http://89.105.221.127/MSNBC/index.m3u8?token=test
+http://41.205.93.154/MSNBC/index.m3u8
 #EXTINF:-1 tvg-id="CBSNewsLive.us@SD" tvg-logo="https://www.paramountshop.com/cdn/shop/files/cbs-news-logo-adult-short-sleeve-t-shirt-308460.png?v=1718288868&width=450" group-title="Tutti",CBS News
 https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8
 #EXTINF:-1 tvg-id="NBCNewsNOW.us@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFtl8doMCLebrCAnr2V6NsoGUOkEIohF614g&s" group-title="Tutti",NBC News Now
