@@ -381,7 +381,7 @@ https://linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/8d9284ec-c451-4e51-a1d4-d16e5c8972af/index.m3u8
 #EXTINF:-1 tvg-id="WGN CHICAGO" tvg-logo="https://www.greencitymarket.org/content/images/news/wgnchicago-logoresized-bcpng.png" group-title="Tutti",The CW WGN Chicago IL
 http://23.237.104.106:8080/USA_WGN/index.m3u8
-#EXTINF:-1 tvg-id="KCWXTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1200px-MyNetworkTV_2D_Logo.svg.png" group-title="Tutti",myTV San Antonio TX KCWX-TV
+#EXTINF:-1 tvg-id="KCWXTV.us" tvg-country="US" tvg-language="English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/1280px-MyNetworkTV_2D_Logo.svg.png" group-title="Tutti",myTV San Antonio TX KCWX-TV
 http://65.36.6.216:1935/live/kcwx.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NewsmaxTV.us@SD" tvg-logo="https://logowik.com/content/uploads/images/newsmax5379.logowik.com.webp" group-title="Tutti",Newsmax TV 
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
