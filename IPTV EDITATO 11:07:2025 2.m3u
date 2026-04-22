@@ -341,8 +341,8 @@ http://41.205.93.154/ABC/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="fox5 new york local 1.us" tvg-chno="831" tvg-logo="https://m.media-amazon.com/images/I/71Y4vKBnx7L.png" group-title="Tutti",Fox Local New York
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="CBSNewsNewYork.us" tvg-logo="https://i.imgur.com/bpc4v0u.png" group-title="Tutti",CBS News New York
-https://dai.google.com/linear/hls/pa/event/jeTDC610T-OSPdiWhcl0Pg/stream/7c11b815-1980-49ce-8638-a88198391de1:BRU/master.m3u8?CMCD=ot%3Dm%2Csf%3Dh%2Csid%3D%224d9b5f50-33b0-4975-b1c8-a5f3f1fd2434%22%2Csu
+#EXTINF:-1 tvg-id="CBSNewsMiami.us" tvg-logo="https://pbs.twimg.com/profile_images/1641133568461090817/6Dsw-f15_400x400.png" group-title="Tutti",CBS News Miami
+https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
 #EXTINF:-1 tvg-id="nbc_news_Chicago" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_lGMGVYxZKGdJFWIko6zAr6Kl59Z-Lubg-UefJp9knjaw=s900-c-k-c0x00ffffff-no-rj" group-title="Tutti",NBC News Chicago
 https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
 #EXTINF:-1 tvg-id="WGN CHICAGO" tvg-logo="https://www.greencitymarket.org/content/images/news/wgnchicago-logoresized-bcpng.png" group-title="Tutti",The CW WGN Chicago IL
