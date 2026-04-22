@@ -341,33 +341,33 @@ http://41.205.93.154/ABC/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
 #EXTINF:-1 tvg-id="fox5 new york local 1.us" tvg-chno="831" tvg-logo="https://m.media-amazon.com/images/I/71Y4vKBnx7L.png" group-title="Tutti",Fox Local New York
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
-#EXTINF:-1 tvg-id="CBS" tvg-group="Tutti"
+#EXTINF:-1 tvg-id="CBS" tvg-group="Tutti" group-title="Tutti", CBS
 http://89.187.178.197:1970/CBSNewYork/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="NBC" tvg-group="Tutti"
+#EXTINF:-1 tvg-id="NBC" tvg-group="Tutti" group-title="Tutti", NBC
 http://89.187.178.197:1970/NBCNewYork/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="ABC" tvg-group="Tutti"
+#EXTINF:-1 tvg-id="ABC" tvg-group="Tutti" group-title="Tutti", ABC
 http://89.187.178.197:1970/ABCNewYork/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="FOX" tvg-group="Tutti"
+#EXTINF:-1 tvg-id="FOX" tvg-group="Tutti" group-title="Tutti", FOX
 http://89.187.178.197:1970/FOXNewYork/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CW" tvg-group="Tutti"
+#EXTINF:-1 tvg-id="CW" tvg-group="Tutti" group-title="Tutti", CW
 http://84.17.50.102/cw/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ESPN" tvg-group="Tutti"
+#EXTINF:-1 tvg-id="ESPN" tvg-group="Tutti" group-title="Tutti", ESPN
 http://84.17.50.102/espn/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="ESPN2" tvg-group="Tutti"
+#EXTINF:-1 tvg-id="ESPN2" tvg-group="Tutti" group-title="Tutti", ESPN2
 http://84.17.50.102/espn2/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="AMC" tvg-group="Tutti"
+#EXTINF:-1 tvg-id="AMC" tvg-group="Tutti" group-title="Tutti", AMC
 http://84.17.50.102/amc/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="TNT" tvg-group="Tutti"
+#EXTINF:-1 tvg-id="TNT" tvg-group="Tutti" group-title="Tutti", TNT
 http://84.17.50.102/tnt/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="TBS" tvg-group="Tutti"
+#EXTINF:-1 tvg-id="TBS" tvg-group="Tutti" group-title="Tutti", TBS
 http://212.102.60.231/TBS/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-group="Tutti"
+#EXTINF:-1 tvg-id="HBO" tvg-group="Tutti" group-title="Tutti", HBO
 http://23.237.104.106:8080/USA_HBO/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="SHOWTIME" tvg-group="Tutti"
+#EXTINF:-1 tvg-id="SHOWTIME" tvg-group="Tutti" group-title="Tutti", SHOWTIME
 http://23.237.104.106:8080/USA_SHOWTIME/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="CINEMAX" tvg-group="Tutti"
+#EXTINF:-1 tvg-id="CINEMAX" tvg-group="Tutti" group-title="Tutti", CINEMAX
 http://23.237.104.106:8080/USA_CINEMAX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="STARZ" tvg-group="Tutti"
+#EXTINF:-1 tvg-id="STARZ" tvg-group="Tutti" group-title="Tutti", STARZ
 http://212.102.60.231/STARZ/index.m3u8
 #EXTINF:-1 tvg-id="CBSNewsMiami.us" tvg-logo="https://pbs.twimg.com/profile_images/1641133568461090817/6Dsw-f15_400x400.png" group-title="Tutti",CBS News Miami
 https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
