@@ -405,14 +405,6 @@ https://ilglobotv-live.akamaized.net/channels/MediasetItalia/Live.m3u8
 https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
 #EXTINF:-1 tvg-id="TGCOM24_usa" tvg-logo="https://upload.wikimedia.org/wikipedia/it/1/1a/Mediaset_TGCom24.png" group-title="Tutti",TGCOM24 Italia
 https://ilglobotv-live.akamaized.net/channels/TGCOM24/Live.m3u8
-#EXTINF:-1 tvg-id="RAINews24_usa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_%282022%29.svg/1280px-Rai_News_24_logo_%282022%29.svg.png" group-title="Tutti", Rai News 24 Italia
-https://ilglobotv-live-backup.akamaized.net/RAINews/Live.m3u8
-#EXTINF:-1 tvg-id="RaiPremium_usa" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/4/4c/Rai_World_Premium_%282017%29.png/revision/latest/scale-to-width-down/250?cb=20170715113444" group-title="Tutti",Rai World Premium
-https://ilglobotv-live-backup.akamaized.net/RaiPremium/Live.m3u8
-#EXTINF:-1 tvg-id="RSILA1" tvg-logo="https://logowik.com/content/uploads/images/rsi-la-1-20125457.logowik.com.webp" group-title="Tutti",RSI La1
-https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-HLS8/rsila1hd.m3u8
-#EXTINF:-1 tvg-id="RSILA2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/1280px-RSI_La_2_2012.svg.png" group-title="Tutti",RSI La2
-https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-HLS8/rsila2hd.m3u8
 #EXTINF:-1 tvg-id="WUSATV.us" tvg-group="Tutti" tvg-language="English" tvg-logo="https://play-lh.googleusercontent.com/uP0jR2AprznruwvTAP4s3rJFwEsBLHj6_622CpGbMg1xh-vgPb4udgw8Nj7LLFBgTw" group-title="Tutti",CBS 9 Washington DC WUSA
 https://livevideo01.wusa9.com/hls/live/2015498/newscasts/live.m3u8
 #EXTINF:-1 tvg-id="WGRZTV.us" tvg-group="Tutti" tvg-language="English" tvg-logo="https://i.imgur.com/m4MZTtj.jpg" group-title="Tutti",NBC 2 Buffalo NY WGRZ
