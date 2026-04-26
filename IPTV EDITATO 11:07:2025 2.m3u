@@ -41,7 +41,7 @@ https://59d7d6f47d7fc.streamlock.net/canale8/canale8/chunklist_w1220663142.m3u8
 #EXTINF:-1 tvg-id="63eb82e24e83e70008ab735all" tvg-name="TV7 Benevento" tvg-logo="https://fondazioneachillescudieri.it/wp-content/uploads/2023/02/TV7.net_.png" group-title="Tutti" tvg-chno="15", TV7 Benevento
 https://msh0320.stream.seeweb.it/live/flv:tv7.sdp/chunklist_w722049241.m3u8
 #EXTINF:-1 tvg-id="63eb82e24e83e70008ab735ab" tvg-name="OttoChannel" tvg-logo="https://www.ottochannel.tv/site-img/streamingbg.jpg" group-title="Tutti" tvg-chno="16", OttoChannel
-https://load-balancer.azotosolutions.com/cdnedge/smil:live.smil/chunklist_w1308215071_b4500000_slen.m3u8
+https://load-balancer.azotosolutions.com/cdnedge/smil:live.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Prima Tv Napoli" tvg-logo="https://i.imgur.com/yPuQeEy.jpg" group-title="Tutti" tvg-chno="17", Prima Tv Napoli
 https://57068da1deb21.streamlock.net/primatvnapoli/primatvnapoli/playlist.m3u8
 #EXTINF:-1 channel-id="6093f9281db477000759fce0" tvg-id="6093f9281db477000759fce0" tvg-chno="18" tvg-name="Super! SpongeBob" tvg-logo="https://images.pluto.tv/channels/6093f9281db477000759fce0/colorLogoPNG_1749451468739.png" group-title="Tutti", Super! SpongeBob
