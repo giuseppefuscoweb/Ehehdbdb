@@ -202,7 +202,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&for
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
 #EXTINF:-1 tvg-id="63eb82e24e83e70008ab735am" tvg-name="Radio24‑IlSole24OreTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_x-aR9l60WNP2rUP8aHZjKAox_ZS34OWLwg&s" group-title="Tutti" tvg-chno="246", Radio24‑IlSole24OreTV
 https://ilsole24ore-radiovisual.akamaized.net/hls/live/2035302/persidera/master.m3u8
-#EXTINF:-1 tvg-id="63eb82e24e83e70008ab735aj" tvg-name="Radio Company TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCbyuF3vnqQkKOzY0xFAv3AoDgT24j5EaDTw&usqp=CAU" group-title="Tutti" tvg-chno="247", Radio Company TV
+#EXTINF:-1 tvg-id="63eb82e24e83e70008ab735aj" tvg-name="Radio Company TV" tvg-logo="https://www.tvdream.net/img/companytv-cover.jpg" group-title="Tutti" tvg-chno="247", Radio Company TV
 https://company.fluid.stream/CompanyTV/smil:Company_ALL.smil/chunklist_w766058072_b2128000_slita.m3u8?FLID=1
 #EXTINF:-1 tvg-id="63eb82e24e83e70008ab735ak" tvg-name="Radio Ibiza TV" tvg-logo="https://radioibiza.it/wp-content/uploads/2021/03/radioibiza-min.png" group-title="Tutti" tvg-chno="248", Radio Ibiza TV
 https://str48.fluid.stream/RadioIbizaTV/livestream/chunklist_w1545603155.m3u8?FLID=1
