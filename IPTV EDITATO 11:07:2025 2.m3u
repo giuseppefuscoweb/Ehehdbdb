@@ -350,11 +350,11 @@ http://212.102.60.231/ABC/index.m3u8
 #EXTINF:-1 tvg-id="FOX" tvg-group="Tutti" group-title="Tutti", FOX
 https://bozztv.com/dvrfl03/hondu/hondu-rick-fox5/index.m3u8
 #EXTINF:-1 tvg-id="CW" tvg-group="Tutti" group-title="Tutti", CW
-http://84.17.50.102/cw/tracks-v1a1/mono.ts.m3u8
+http://212.102.60.231/cw/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="AMC" tvg-group="Tutti" group-title="Tutti", AMC
-http://84.17.50.102/amc/tracks-v1a1/mono.ts.m3u8
+http://212.102.60.231/amc/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TNT" tvg-group="Tutti" group-title="Tutti", TNT
-http://84.17.50.102/tnt/tracks-v1a1/mono.ts.m3u8
+http://212.102.60.231/tnt/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="TBS" tvg-group="Tutti" group-title="Tutti", TBS
 http://212.102.60.231/TBS/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="HBO" tvg-group="Tutti" group-title="Tutti", HBO
